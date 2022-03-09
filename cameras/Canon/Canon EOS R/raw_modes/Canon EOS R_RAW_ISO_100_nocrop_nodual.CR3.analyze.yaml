@@ -3289,6 +3289,8 @@ format:
                           Rational:
                             - 85/1
                             - 85/1
+                            - 0/1
+                            - 0/1
                         embedded: 914
                       42036:
                         tag: 42036
