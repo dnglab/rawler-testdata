@@ -1,0 +1,218 @@
+---
+file:
+  fileSize: 21495886
+  fileName: P20 Plus_IIQ L_ISO_50.IIQ
+  digest: 5e9c9fc6783eb6b048e2dc0c3bb61d85
+captureInfo:
+  make: Phase One A/S
+  model: P20+
+  exposureTime: ~
+  shutterSpeed: ~
+  exposureBias: ~
+  lensMake: ~
+  lensModel: ~
+  lensSpec: ~
+rawParams:
+  rawWidth: 4134
+  rawHeight: 4128
+  bitDepth: 16
+  crops: ~
+  blacklevels:
+    - 0
+    - 0
+    - 0
+    - 0
+  whitelevels:
+    - 65535
+    - 65535
+    - 65535
+    - 65535
+  wbCoeffs:
+    - 2.3149133
+    - 1.0
+    - 1.0318251
+    - ~
+format:
+  iiq:
+    makernotes:
+      526:
+        - 4
+        - Long:
+            - 1
+      544:
+        - 4
+        - Long:
+            - 32
+      540:
+        - 16512
+        - Long:
+            - 20583468
+      264:
+        - 4
+        - Long:
+            - 4134
+      1024:
+        - 4
+        - Long:
+            - 1088350123
+      1025:
+        - 4
+        - Long:
+            - 1085341319
+      523:
+        - 4
+        - Long:
+            - 0
+      550:
+        - 36
+        - Long:
+            - 20583432
+      542:
+        - 4
+        - Long:
+            - 1
+      529:
+        - 4
+        - Long:
+            - 1102413824
+      269:
+        - 4
+        - Long:
+            - 4094
+      261:
+        - 4
+        - Long:
+            - 50
+      533:
+        - 4
+        - Long:
+            - 5
+      551:
+        - 4
+        - Long:
+            - 0
+      769:
+        - 100
+        - Ascii:
+            strings:
+              - "P20+-H, Firmware: Main=5.1.2, Boot=1.3, FPGA=1.6.8, CPLD=3.2.6, PAVR=1.0.9, UIFC=1.0.1, TGEN=1.0.1"
+      258:
+        - 16
+        - Ascii:
+            strings:
+              - DE000101
+      1027:
+        - 4
+        - Long:
+            - 1117782016
+      272:
+        - 740712
+        - Long:
+            - 20608420
+      257:
+        - 4
+        - Long:
+            - 96
+      516:
+        - 36
+        - Ascii:
+            strings:
+              - Digital Camera Back
+      772:
+        - 4
+        - Long:
+            - 8
+      528:
+        - 4
+        - Long:
+            - 1102381056
+      262:
+        - 36
+        - Long:
+            - 20583396
+      541:
+        - 4
+        - Long:
+            - 1024
+      515:
+        - 36
+        - Ascii:
+            strings:
+              - "Camera back, Main firmware: 5.1.2"
+      270:
+        - 4
+        - Long:
+            - 3
+      267:
+        - 4
+        - Long:
+            - 21
+      260:
+        - 4
+        - Long:
+            - 50
+      268:
+        - 4
+        - Long:
+            - 4096
+      256:
+        - 4
+        - Long:
+            - 1
+      263:
+        - 12
+        - Long:
+            - 20583384
+      259:
+        - 4
+        - Long:
+            - 23593674
+      531:
+        - 4
+        - Long:
+            - 96
+      543:
+        - 8256
+        - Long:
+            - 20599980
+      271:
+        - 20583372
+        - Long:
+            - 12
+      265:
+        - 4
+        - Long:
+            - 4128
+      768:
+        - 4
+        - Long:
+            - 96
+      553:
+        - 4
+        - Long:
+            - 0
+      266:
+        - 4
+        - Long:
+            - 26
+      275:
+        - 4
+        - Long:
+            - 51544
+      524:
+        - 4
+        - Long:
+            - 1
+      274:
+        - 4
+        - Long:
+            - 1613410152
+      545:
+        - 4
+        - Long:
+            - 1135866530
+      530:
+        - 4
+        - Long:
+            - 1613410105
+

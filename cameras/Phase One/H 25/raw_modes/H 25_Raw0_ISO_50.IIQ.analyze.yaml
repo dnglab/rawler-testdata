@@ -1,0 +1,232 @@
+---
+file:
+  fileSize: 47639378
+  fileName: H 25_Raw0_ISO_50.IIQ
+  digest: a38b3c3d0a41f07b88296dd70a1b381a
+captureInfo:
+  make: Phase One A/S
+  model: H 25
+  exposureTime: ~
+  shutterSpeed: ~
+  exposureBias: ~
+  lensMake: ~
+  lensModel: ~
+  lensSpec: ~
+rawParams:
+  rawWidth: 4134
+  rawHeight: 5488
+  bitDepth: 16
+  crops:
+    p:
+      x: 32
+      y: 26
+    d:
+      w: 4090
+      h: 5450
+  blacklevels:
+    - 0
+    - 0
+    - 0
+    - 0
+  whitelevels:
+    - 65535
+    - 65535
+    - 65535
+    - 65535
+  wbCoeffs:
+    - 2.847255
+    - 1.0
+    - 1.1010499
+    - ~
+format:
+  iiq:
+    makernotes:
+      269:
+        - 4
+        - Long:
+            - 5456
+      768:
+        - 4
+        - Long:
+            - 80
+      530:
+        - 4
+        - Long:
+            - 1372183323
+      274:
+        - 4
+        - Long:
+            - 1372183320
+      529:
+        - 4
+        - Long:
+            - 1104412672
+      577:
+        - 4
+        - Long:
+            - 5456
+      266:
+        - 4
+        - Long:
+            - 26
+      550:
+        - 36
+        - Long:
+            - 47638084
+      560:
+        - 4
+        - Long:
+            - 4134
+      568:
+        - 4
+        - Long:
+            - 26
+      564:
+        - 4
+        - Long:
+            - 4096
+      562:
+        - 4
+        - Long:
+            - 26
+      267:
+        - 4
+        - Long:
+            - 21
+      569:
+        - 4
+        - Long:
+            - 21
+      576:
+        - 4
+        - Long:
+            - 4096
+      565:
+        - 4
+        - Long:
+            - 5456
+      769:
+        - 60
+        - Ascii:
+            strings:
+              - "H25, Firmware: Main=1.1.2, Boot=1.0.1d3, FPGA=1.0, CPLD=1.0"
+      523:
+        - 4
+        - Long:
+            - 0
+      772:
+        - 4
+        - Long:
+            - 0
+      567:
+        - 4
+        - Long:
+            - 5488
+      271:
+        - 45376188
+        - Long:
+            - 12
+      263:
+        - 12
+        - Long:
+            - 46044964
+      270:
+        - 4
+        - Long:
+            - 0
+      770:
+        - 4
+        - Long:
+            - 1
+      272:
+        - 1593020
+        - Long:
+            - 46044984
+      258:
+        - 9
+        - Ascii:
+            strings:
+              - CC000252
+      257:
+        - 4
+        - Long:
+            - 1527
+      526:
+        - 4
+        - Long:
+            - 1
+      256:
+        - 4
+        - Long:
+            - 1
+      563:
+        - 4
+        - Long:
+            - 21
+      264:
+        - 4
+        - Long:
+            - 4134
+      566:
+        - 4
+        - Long:
+            - 4134
+      260:
+        - 4
+        - Long:
+            - 50
+      261:
+        - 4
+        - Long:
+            - 50
+      524:
+        - 4
+        - Long:
+            - 1
+      561:
+        - 4
+        - Long:
+            - 5488
+      259:
+        - 4
+        - Long:
+            - 35651790
+      268:
+        - 4
+        - Long:
+            - 4096
+      265:
+        - 4
+        - Long:
+            - 5488
+      531:
+        - 4
+        - Long:
+            - 1527
+      528:
+        - 4
+        - Long:
+            - 1104379904
+      515:
+        - 31
+        - Ascii:
+            strings:
+              - Phase One Camera Capture Agent
+      275:
+        - 4
+        - Long:
+            - 48128
+      516:
+        - 56
+        - Ascii:
+            strings:
+              - Microsoft Windows Version 6.1 Service Pack 1 Build 7601
+      262:
+        - 36
+        - Long:
+            - 46044928
+      553:
+        - 4
+        - Long:
+            - 4294967294
+

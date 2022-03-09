@@ -1,0 +1,193 @@
+---
+file:
+  fileSize: 17843198
+  fileName: H 25_IIQ S_ISO_100.IIQ
+  digest: 5af2325dc4a7e020f1a83634058e5de0
+captureInfo:
+  make: Phase One A/S
+  model: H 25
+  exposureTime: ~
+  shutterSpeed: ~
+  exposureBias: ~
+  lensMake: ~
+  lensModel: ~
+  lensSpec: ~
+rawParams:
+  rawWidth: 4134
+  rawHeight: 5488
+  bitDepth: 16
+  crops:
+    p:
+      x: 32
+      y: 26
+    d:
+      w: 4090
+      h: 5450
+  blacklevels:
+    - 0
+    - 0
+    - 0
+    - 0
+  whitelevels:
+    - 65535
+    - 65535
+    - 65535
+    - 65535
+  wbCoeffs:
+    - 2.641
+    - 1.0
+    - 1.251
+    - ~
+format:
+  iiq:
+    makernotes:
+      523:
+        - 4
+        - Long:
+            - 1
+      539:
+        - 4
+        - Long:
+            - 1065353216
+      257:
+        - 4
+        - Long:
+            - 631
+      528:
+        - 4
+        - Long:
+            - 1104609280
+      537:
+        - 128
+        - Ascii:
+            strings:
+              - ""
+      259:
+        - 4
+        - Long:
+            - 35651790
+      266:
+        - 4
+        - Long:
+            - 26
+      535:
+        - 4
+        - Long:
+            - 0
+      267:
+        - 4
+        - Long:
+            - 21
+      269:
+        - 4
+        - Long:
+            - 5456
+      265:
+        - 4
+        - Long:
+            - 5488
+      258:
+        - 16
+        - Ascii:
+            strings:
+              - CC000252
+      516:
+        - 60
+        - Ascii:
+            strings:
+              - Microsoft Windows XP build 2600 Service Pack 1 511 MB RAM
+      531:
+        - 4
+        - Long:
+            - 631
+      275:
+        - 4
+        - Long:
+            - 6521
+      540:
+        - 21952
+        - Long:
+            - 1594096
+      530:
+        - 4
+        - Long:
+            - 1108570144
+      263:
+        - 12
+        - Long:
+            - 1593048
+      529:
+        - 4
+        - Long:
+            - 1104642048
+      261:
+        - 4
+        - Long:
+            - 100
+      272:
+        - 1593020
+        - Long:
+            - 20
+      515:
+        - 28
+        - Ascii:
+            strings:
+              - " version 3.5.2 for Windows"
+      538:
+        - 4
+        - Long:
+            - 4096
+      256:
+        - 4
+        - Long:
+            - 1
+      262:
+        - 36
+        - Long:
+            - 1593060
+      264:
+        - 4
+        - Long:
+            - 4134
+      527:
+        - 4
+        - Long:
+            - 0
+      268:
+        - 4
+        - Long:
+            - 4096
+      526:
+        - 4
+        - Long:
+            - 1
+      768:
+        - 4
+        - Long:
+            - 80
+      274:
+        - 4
+        - Long:
+            - 1108570141
+      524:
+        - 4
+        - Long:
+            - 1
+      271:
+        - 15965928
+        - Long:
+            - 1616048
+      273:
+        - 200
+        - Ascii:
+            strings:
+              - "II\u0004"
+      270:
+        - 4
+        - Long:
+            - 5
+      260:
+        - 4
+        - Long:
+            - 50
+

@@ -1,0 +1,300 @@
+---
+file:
+  fileSize: 71921221
+  fileName: P65 Plus_IIQ L_ISO_200.IIQ
+  digest: c03dd3b245dca055c2da076df6a143d0
+captureInfo:
+  make: Phase One A/S
+  model: P65+
+  exposureTime: ~
+  shutterSpeed: ~
+  exposureBias: ~
+  lensMake: ~
+  lensModel: ~
+  lensSpec: ~
+rawParams:
+  rawWidth: 9036
+  rawHeight: 6784
+  bitDepth: 16
+  crops: ~
+  blacklevels:
+    - 0
+    - 0
+    - 0
+    - 0
+  whitelevels:
+    - 65535
+    - 65535
+    - 65535
+    - 65535
+  wbCoeffs:
+    - 1.2181259
+    - 1.0
+    - 1.525
+    - ~
+format:
+  iiq:
+    makernotes:
+      1030:
+        - 4
+        - Long:
+            - 3
+      545:
+        - 4
+        - Long:
+            - 1060535764
+      551:
+        - 4
+        - Long:
+            - 0
+      261:
+        - 4
+        - Long:
+            - 200
+      1026:
+        - 4
+        - Long:
+            - 0
+      1032:
+        - 4
+        - Long:
+            - 2
+      552:
+        - 4
+        - Long:
+            - 1
+      258:
+        - 16
+        - Ascii:
+            strings:
+              - EJ031275
+      1031:
+        - 4
+        - Long:
+            - 0
+      1041:
+        - 4
+        - Long:
+            - 17107200
+      256:
+        - 4
+        - Long:
+            - 0
+      549:
+        - 36144
+        - Long:
+            - 71548268
+      542:
+        - 4
+        - Long:
+            - 1
+      546:
+        - 4
+        - Long:
+            - 4528
+      1042:
+        - 24
+        - Ascii:
+            strings:
+              - Schneider LS 80mm f/2.8
+      1044:
+        - 4
+        - Long:
+            - 1091482535
+      579:
+        - 4
+        - Long:
+            - 119
+      1040:
+        - 8
+        - Ascii:
+            strings:
+              - 645DF
+      548:
+        - 4
+        - Long:
+            - 3372
+      1024:
+        - 4
+        - Long:
+            - 1083480704
+      266:
+        - 4
+        - Long:
+            - 36
+      1028:
+        - 4
+        - Long:
+            - 1
+      530:
+        - 4
+        - Long:
+            - 1537535110
+      769:
+        - 100
+        - Ascii:
+            strings:
+              - "P65+-M, Firmware: Main=5.2.2, Boot=2.3, FPGA=1.2.4, CPLD=5.0.1, PAVR=1.0.3, UIFC=1.0.1, TGEN=1.0"
+      515:
+        - 36
+        - Ascii:
+            strings:
+              - "Camera back, Main firmware: 5.2.2"
+      267:
+        - 4
+        - Long:
+            - 6
+      547:
+        - 27136
+        - Long:
+            - 71521132
+      544:
+        - 4
+        - Long:
+            - 32
+      1045:
+        - 4
+        - Long:
+            - 1077813864
+      541:
+        - 4
+        - Long:
+            - 1024
+      523:
+        - 4
+        - Long:
+            - 1
+      768:
+        - 4
+        - Long:
+            - 102
+      772:
+        - 4
+        - Long:
+            - 3076
+      260:
+        - 4
+        - Long:
+            - 50
+      1025:
+        - 4
+        - Long:
+            - 1086324736
+      540:
+        - 27136
+        - Long:
+            - 71493996
+      528:
+        - 4
+        - Long:
+            - 1103626240
+      270:
+        - 4
+        - Long:
+            - 3
+      1043:
+        - 4
+        - Long:
+            - 16909056
+      265:
+        - 4
+        - Long:
+            - 6784
+      257:
+        - 4
+        - Long:
+            - 608
+      259:
+        - 4
+        - Long:
+            - 20
+      264:
+        - 4
+        - Long:
+            - 9036
+      550:
+        - 36
+        - Long:
+            - 71493960
+      533:
+        - 4
+        - Long:
+            - 4
+      524:
+        - 4
+        - Long:
+            - 2
+      262:
+        - 36
+        - Long:
+            - 71493924
+      578:
+        - 4
+        - Long:
+            - 62
+      1033:
+        - 4
+        - Long:
+            - 1
+      269:
+        - 4
+        - Long:
+            - 6732
+      263:
+        - 12
+        - Long:
+            - 71493912
+      529:
+        - 4
+        - Long:
+            - 1103822848
+      274:
+        - 4
+        - Long:
+            - 1537535108
+      553:
+        - 4
+        - Long:
+            - 0
+      516:
+        - 36
+        - Ascii:
+            strings:
+              - Digital Camera Back
+      275:
+        - 4
+        - Long:
+            - 27310
+      1047:
+        - 4
+        - Long:
+            - 1117782016
+      1027:
+        - 4
+        - Long:
+            - 1117782016
+      1046:
+        - 4
+        - Long:
+            - 1117782016
+      272:
+        - 139400
+        - Long:
+            - 71584628
+      526:
+        - 4
+        - Long:
+            - 3
+      271:
+        - 71493900
+        - Long:
+            - 12
+      268:
+        - 4
+        - Long:
+            - 8984
+      531:
+        - 4
+        - Long:
+            - 608
+
