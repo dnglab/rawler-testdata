@@ -3,388 +3,83 @@ file:
   fileSize: 116500820
   fileName: iXM-RS150F_IIQ Sv2_ISO_160.IIQ
   digest: 3e50a3e9aa0ef43e8cc544f4eaf4e1fb
-captureInfo:
-  make: Phase One
-  model: iXM-RS150F
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 14308
-  rawHeight: 10760
-  bitDepth: 16
-  crops:
-    p:
-      x: 102
-      y: 106
-    d:
-      w: 14204
-      h: 10652
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 3.24972
-    - 1.0
-    - 1.6596577
-    - ~
-format:
-  iiq:
-    makernotes:
-      274:
-        - 4
-        - Long:
-            - 1626886647
-      614:
-        - 4
-        - Long:
-            - 0
-      775:
-        - 4
-        - Long:
-            - 10
-      271:
-        - 114518676
-        - Long:
-            - 504
-      259:
-        - 4
-        - Long:
-            - 31
-      262:
-        - 36
-        - Long:
-            - 114519564
-      266:
-        - 4
-        - Long:
-            - 102
-      548:
-        - 4
-        - Long:
-            - 5442
-      272:
-        - 889324
-        - Long:
-            - 114663056
-      542:
-        - 4
-        - Long:
-            - 1
-      1288:
-        - 4
-        - Long:
-            - 4
-      1042:
-        - 24
-        - Ascii:
-            strings:
-              - Rodenstock RS 40mm-Ar
-      268:
-        - 4
-        - Long:
-            - 14204
-      599:
-        - 4
-        - Long:
-            - 1107476480
-      1286:
-        - 4
-        - Long:
-            - 1
-      550:
-        - 36
-        - Long:
-            - 114519600
-      581:
-        - 4
-        - Long:
-            - 1070386381
-      516:
-        - 20
-        - Ascii:
-            strings:
-              - Digital Camera Back
-      552:
-        - 4
-        - Long:
-            - 513
-      593:
-        - 4
-        - Long:
-            - 4
-      1290:
-        - 4
-        - Long:
-            - 3233391051
-      1352:
-        - 8
-        - Ascii:
-            strings:
-              - ""
-      256:
-        - 4
-        - Long:
-            - 0
-      551:
-        - 4
-        - Long:
-            - 0
-      800:
-        - 4
-        - Long:
-            - 833894979
-      626:
-        - 8192
-        - Long:
-            - 115552404
-      524:
-        - 4
-        - Long:
-            - 2
-      1291:
-        - 4
-        - Long:
-            - 1132808045
-      540:
-        - 43040
-        - Long:
-            - 114519672
-      531:
-        - 4
-        - Long:
-            - 21
-      541:
-        - 4
-        - Long:
-            - 1024
-      1047:
-        - 4
-        - Long:
-            - 1109393408
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - MM010293
-      1292:
-        - 4
-        - Long:
-            - 1
-      528:
-        - 4
-        - Long:
-            - 1107476480
-      270:
-        - 4
-        - Long:
-            - 6
-      264:
-        - 4
-        - Long:
-            - 14308
-      1046:
-        - 4
-        - Long:
-            - 1109393408
-      526:
-        - 4
-        - Long:
-            - 9
-      1044:
-        - 4
-        - Long:
-            - 1091482535
-      580:
-        - 4
-        - Long:
-            - 0
-      257:
-        - 4
-        - Long:
-            - 21
-      801:
-        - 4
-        - Long:
-            - 933840814
-      530:
-        - 4
-        - Long:
-            - 1626886648
-      1025:
-        - 4
-        - Long:
-            - 1084166452
-      267:
-        - 4
-        - Long:
-            - 106
-      533:
-        - 4
-        - Long:
-            - 2
-      768:
-        - 4
-        - Long:
-            - 277
-      1328:
-        - 12
-        - Ascii:
-            strings:
-              - "12563460"
-      1026:
-        - 4
-        - Long:
-            - 0
-      1335:
-        - 4
-        - Long:
-            - 91
-      1045:
-        - 4
-        - Long:
-            - 1082130432
-      269:
-        - 4
-        - Long:
-            - 10652
-      591:
-        - 4
-        - Long:
-            - 0
-      265:
-        - 4
-        - Long:
-            - 10760
-      774:
-        - 4
-        - Long:
-            - 2
-      802:
-        - 4
-        - Long:
-            - 927068626
-      769:
-        - 28
-        - Ascii:
-            strings:
-              - "iXM-RS150F, v4.10.9 (FWR)"
-      1027:
-        - 4
-        - Long:
-            - 1109393408
-      1351:
-        - 4
-        - Long:
-            - 1
-      1289:
-        - 4
-        - Long:
-            - 3210991370
-      559:
-        - 8
-        - Long:
-            - 114519544
-      545:
-        - 4
-        - Long:
-            - 0
-      1284:
-        - 4
-        - Long:
-            - 2167
-      260:
-        - 4
-        - Long:
-            - 50
-      1043:
-        - 4
-        - Long:
-            - 33751041
-      1334:
-        - 4
-        - Long:
-            - 8
-      529:
-        - 4
-        - Long:
-            - 1107476480
-      546:
-        - 4
-        - Long:
-            - 7252
-      261:
-        - 4
-        - Long:
-            - 160
-      1104:
-        - 4
-        - Long:
-            - 0
-      620:
-        - 4
-        - Long:
-            - 21045
-      553:
-        - 4
-        - Long:
-            - 0
-      1028:
-        - 4
-        - Long:
-            - 2
-      619:
-        - 4
-        - Long:
-            - 0
-      1282:
-        - 4
-        - Long:
-            - 1130503471
-      544:
-        - 4
-        - Long:
-            - 32
-      263:
-        - 12
-        - Long:
-            - 114519552
-      602:
-        - 43040
-        - Long:
-            - 114562712
-      1024:
-        - 4
-        - Long:
-            - 1092917878
-      523:
-        - 4
-        - Long:
-            - 0
-      275:
-        - 4
-        - Long:
-            - 45212
-      594:
-        - 4
-        - Long:
-            - 1065353216
-      618:
-        - 57232
-        - Long:
-            - 114605752
-      586:
-        - 4
-        - Long:
-            - 1608464342
+data:
+  metadata:
+    rawParams:
+      rawWidth: 14308
+      rawHeight: 10760
+      bitDepth: 16
+      crops:
+        p:
+          x: 102
+          y: 106
+        d:
+          w: 14204
+          h: 10652
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 3.24972
+        - 1.0
+        - 1.6596577
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 800/1000000
+        fnumber: 560/100
+        aperture_value: 49709/10000
+        brightness_value: ~
+        iso_speed_ratings: 160
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2021:07:21 16:57:27"
+        create_date: "2021:07:21 16:57:27"
+        modify_date: ~
+        exposure_program: 2
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 1028771/100000
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: 1
+        flash: ~
+        focal_length: 400/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 1
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: iXM-RS150F
+      make: Phase One
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

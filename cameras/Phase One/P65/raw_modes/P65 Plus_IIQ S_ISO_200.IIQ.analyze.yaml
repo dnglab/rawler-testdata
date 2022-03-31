@@ -3,298 +3,77 @@ file:
   fileSize: 42236521
   fileName: P65 Plus_IIQ S_ISO_200.IIQ
   digest: eb411c62bfb5d77de80f080e9d6a3f29
-captureInfo:
-  make: Phase One A/S
-  model: P65+
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 9036
-  rawHeight: 6784
-  bitDepth: 16
-  crops: ~
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 1.2181259
-    - 1.0
-    - 1.525
-    - ~
-format:
-  iiq:
-    makernotes:
-      526:
-        - 4
-        - Long:
-            - 3
-      528:
-        - 4
-        - Long:
-            - 1103888384
-      1041:
-        - 4
-        - Long:
-            - 17107200
-      272:
-        - 139400
-        - Long:
-            - 41899928
-      256:
-        - 4
-        - Long:
-            - 0
-      271:
-        - 41809200
-        - Long:
-            - 12
-      772:
-        - 4
-        - Long:
-            - 3076
-      1047:
-        - 4
-        - Long:
-            - 1117782016
-      548:
-        - 4
-        - Long:
-            - 3372
-      578:
-        - 4
-        - Long:
-            - 62
-      515:
-        - 36
-        - Ascii:
-            strings:
-              - "Camera back, Main firmware: 5.2.2"
-      550:
-        - 36
-        - Long:
-            - 41809260
-      546:
-        - 4
-        - Long:
-            - 4528
-      263:
-        - 12
-        - Long:
-            - 41809212
-      1025:
-        - 4
-        - Long:
-            - 1086324736
-      524:
-        - 4
-        - Long:
-            - 2
-      552:
-        - 4
-        - Long:
-            - 1
-      531:
-        - 4
-        - Long:
-            - 608
-      1043:
-        - 4
-        - Long:
-            - 16909056
-      264:
-        - 4
-        - Long:
-            - 9036
-      265:
-        - 4
-        - Long:
-            - 6784
-      553:
-        - 4
-        - Long:
-            - 0
-      262:
-        - 36
-        - Long:
-            - 41809224
-      1030:
-        - 4
-        - Long:
-            - 3
-      260:
-        - 4
-        - Long:
-            - 50
-      274:
-        - 4
-        - Long:
-            - 1537535142
-      529:
-        - 4
-        - Long:
-            - 1103822848
-      551:
-        - 4
-        - Long:
-            - 0
-      1042:
-        - 24
-        - Ascii:
-            strings:
-              - Schneider LS 80mm f/2.8
-      579:
-        - 4
-        - Long:
-            - 119
-      769:
-        - 100
-        - Ascii:
-            strings:
-              - "P65+-M, Firmware: Main=5.2.2, Boot=2.3, FPGA=1.2.4, CPLD=5.0.1, PAVR=1.0.3, UIFC=1.0.1, TGEN=1.0"
-      1027:
-        - 4
-        - Long:
-            - 1117782016
-      267:
-        - 4
-        - Long:
-            - 6
-      516:
-        - 36
-        - Ascii:
-            strings:
-              - Digital Camera Back
-      270:
-        - 4
-        - Long:
-            - 5
-      523:
-        - 4
-        - Long:
-            - 1
-      268:
-        - 4
-        - Long:
-            - 8984
-      540:
-        - 27136
-        - Long:
-            - 41809296
-      530:
-        - 4
-        - Long:
-            - 1537535110
-      259:
-        - 4
-        - Long:
-            - 20
-      545:
-        - 4
-        - Long:
-            - 1063055294
-      1031:
-        - 4
-        - Long:
-            - 0
-      541:
-        - 4
-        - Long:
-            - 1024
-      1032:
-        - 4
-        - Long:
-            - 2
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - EJ031275
-      269:
-        - 4
-        - Long:
-            - 6732
-      1026:
-        - 4
-        - Long:
-            - 0
-      1045:
-        - 4
-        - Long:
-            - 1077813864
-      261:
-        - 4
-        - Long:
-            - 200
-      257:
-        - 4
-        - Long:
-            - 608
-      544:
-        - 4
-        - Long:
-            - 32
-      549:
-        - 36144
-        - Long:
-            - 41863568
-      768:
-        - 4
-        - Long:
-            - 102
-      1028:
-        - 4
-        - Long:
-            - 1
-      542:
-        - 4
-        - Long:
-            - 1
-      1033:
-        - 4
-        - Long:
-            - 1
-      533:
-        - 4
-        - Long:
-            - 4
-      1040:
-        - 8
-        - Ascii:
-            strings:
-              - 645DF
-      1024:
-        - 4
-        - Long:
-            - 1082805568
-      275:
-        - 4
-        - Long:
-            - 27311
-      1044:
-        - 4
-        - Long:
-            - 1091482535
-      1046:
-        - 4
-        - Long:
-            - 1117782016
-      266:
-        - 4
-        - Long:
-            - 36
-      547:
-        - 27136
-        - Long:
-            - 41836432
+data:
+  metadata:
+    rawParams:
+      rawWidth: 9036
+      rawHeight: 6784
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 1.2181259
+        - 1.0
+        - 1.525
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 50000/1000000
+        fnumber: 800/100
+        aperture_value: 60000/10000
+        brightness_value: ~
+        iso_speed_ratings: 200
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2018:09:21 13:05:42"
+        create_date: "2018:09:21 13:05:42"
+        modify_date: ~
+        exposure_program: 1
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 432193/100000
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: 255
+        flash: ~
+        focal_length: 800/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 5
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: P65+
+      make: Phase One A/S
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

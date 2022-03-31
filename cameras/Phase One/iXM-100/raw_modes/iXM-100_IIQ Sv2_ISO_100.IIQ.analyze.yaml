@@ -3,342 +3,77 @@ file:
   fileSize: 97580203
   fileName: iXM-100_IIQ Sv2_ISO_100.IIQ
   digest: a664685d0e26d914fe4d7f6c03788e9c
-captureInfo:
-  make: Phase One
-  model: iXM-100
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 11764
-  rawHeight: 8854
-  bitDepth: 16
-  crops: ~
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 3.24
-    - 1.0
-    - 1.52
-    - ~
-format:
-  iiq:
-    makernotes:
-      263:
-        - 12
-        - Long:
-            - 82229760
-      1045:
-        - 4
-        - Long:
-            - 1084166452
-      270:
-        - 4
-        - Long:
-            - 6
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - ML000213
-      1026:
-        - 4
-        - Long:
-            - 0
-      774:
-        - 4
-        - Long:
-            - 2
-      528:
-        - 4
-        - Long:
-            - 1108238336
-      581:
-        - 4
-        - Long:
-            - 1065353216
-      544:
-        - 4
-        - Long:
-            - 32
-      586:
-        - 4
-        - Long:
-            - 1552842400
-      620:
-        - 4
-        - Long:
-            - 523094
-      259:
-        - 4
-        - Long:
-            - 30
-      265:
-        - 4
-        - Long:
-            - 8854
-      533:
-        - 4
-        - Long:
-            - 2
-      1046:
-        - 4
-        - Long:
-            - 1117782016
-      559:
-        - 8
-        - Long:
-            - 82229752
-      266:
-        - 4
-        - Long:
-            - 100
-      621:
-        - 4
-        - Long:
-            - 0
-      1028:
-        - 4
-        - Long:
-            - 2
-      260:
-        - 4
-        - Long:
-            - 50
-      272:
-        - 468312
-        - Long:
-            - 82347848
-      267:
-        - 4
-        - Long:
-            - 104
-      541:
-        - 4
-        - Long:
-            - 1024
-      1047:
-        - 4
-        - Long:
-            - 1117782016
-      769:
-        - 24
-        - Ascii:
-            strings:
-              - "iXM-100, v2.01.13 (FWP)"
-      551:
-        - 4
-        - Long:
-            - 0
-      1043:
-        - 4
-        - Long:
-            - 16973827
-      775:
-        - 4
-        - Long:
-            - 10
-      257:
-        - 4
-        - Long:
-            - 523
-      1338:
-        - 4
-        - Long:
-            - 1093047070
-      275:
-        - 4
-        - Long:
-            - 849
-      1104:
-        - 4
-        - Long:
-            - 0
-      531:
-        - 4
-        - Long:
-            - 523
-      580:
-        - 4
-        - Long:
-            - 0
-      594:
-        - 4
-        - Long:
-            - 1065353216
-      614:
-        - 4
-        - Long:
-            - 0
-      264:
-        - 4
-        - Long:
-            - 11764
-      618:
-        - 47056
-        - Long:
-            - 82300712
-      1025:
-        - 4
-        - Long:
-            - 1090519040
-      268:
-        - 4
-        - Long:
-            - 11664
-      271:
-        - 82228848
-        - Long:
-            - 504
-      1351:
-        - 4
-        - Long:
-            - 1
-      1044:
-        - 4
-        - Long:
-            - 1091482535
-      540:
-        - 35416
-        - Long:
-            - 82229880
-      1335:
-        - 4
-        - Long:
-            - 113
-      552:
-        - 4
-        - Long:
-            - 32769
-      1042:
-        - 24
-        - Ascii:
-            strings:
-              - Phase One RSM 80mmAF
-      256:
-        - 4
-        - Long:
-            - 0
-      526:
-        - 4
-        - Long:
-            - 9
-      530:
-        - 4
-        - Long:
-            - 1573950160
-      524:
-        - 4
-        - Long:
-            - 2
-      545:
-        - 4
-        - Long:
-            - 0
-      262:
-        - 36
-        - Long:
-            - 82229772
-      599:
-        - 4
-        - Long:
-            - 1108238336
-      550:
-        - 36
-        - Long:
-            - 82229808
-      602:
-        - 35416
-        - Long:
-            - 82265296
-      548:
-        - 4
-        - Long:
-            - 4489
-      1027:
-        - 4
-        - Long:
-            - 1117782016
-      593:
-        - 4
-        - Long:
-            - 8
-      619:
-        - 4
-        - Long:
-            - 0
-      1352:
-        - 8
-        - Ascii:
-            strings:
-              - ""
-      768:
-        - 4
-        - Long:
-            - 276
-      591:
-        - 4
-        - Long:
-            - 0
-      261:
-        - 4
-        - Long:
-            - 100
-      546:
-        - 4
-        - Long:
-            - 5956
-      529:
-        - 4
-        - Long:
-            - 1108148224
-      516:
-        - 24
-        - Ascii:
-            strings:
-              - Digital Camera Back
-      1024:
-        - 4
-        - Long:
-            - 1065353216
-      1334:
-        - 4
-        - Long:
-            - 4
-      542:
-        - 4
-        - Long:
-            - 1
-      553:
-        - 4
-        - Long:
-            - 0
-      269:
-        - 4
-        - Long:
-            - 8750
-      1328:
-        - 12
-        - Ascii:
-            strings:
-              - UJ001029
-      523:
-        - 4
-        - Long:
-            - 0
-      274:
-        - 4
-        - Long:
-            - 1573950195
+data:
+  metadata:
+    rawParams:
+      rawWidth: 11764
+      rawHeight: 8854
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 3.24
+        - 1.0
+        - 1.52
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ""
+        artist: ~
+        lens_spec: ~
+        exposure_time: 500000/1000000
+        fnumber: 1600/100
+        aperture_value: 80000/10000
+        brightness_value: ~
+        iso_speed_ratings: 100
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2019:11:17 00:23:15"
+        create_date: "2019:11:17 00:23:15"
+        modify_date: ~
+        exposure_program: 2
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 100000/100000
+        max_aperture_value: ~
+        subject_distance: 10411/1000
+        metering_mode: ~
+        light_source: 1
+        flash: ~
+        focal_length: 800/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 1
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: iXM-100
+      make: Phase One
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

@@ -3,230 +3,83 @@ file:
   fileSize: 47639378
   fileName: H 25_Raw0_ISO_50.IIQ
   digest: a38b3c3d0a41f07b88296dd70a1b381a
-captureInfo:
-  make: Phase One A/S
-  model: H 25
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 4134
-  rawHeight: 5488
-  bitDepth: 16
-  crops:
-    p:
-      x: 32
-      y: 26
-    d:
-      w: 4090
-      h: 5450
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 2.847255
-    - 1.0
-    - 1.1010499
-    - ~
-format:
-  iiq:
-    makernotes:
-      553:
-        - 4
-        - Long:
-            - 4294967294
-      260:
-        - 4
-        - Long:
-            - 50
-      257:
-        - 4
-        - Long:
-            - 1527
-      269:
-        - 4
-        - Long:
-            - 5456
-      264:
-        - 4
-        - Long:
-            - 4134
-      274:
-        - 4
-        - Long:
-            - 1372183320
-      272:
-        - 1593020
-        - Long:
-            - 46044984
-      524:
-        - 4
-        - Long:
-            - 1
-      267:
-        - 4
-        - Long:
-            - 21
-      531:
-        - 4
-        - Long:
-            - 1527
-      562:
-        - 4
-        - Long:
-            - 26
-      567:
-        - 4
-        - Long:
-            - 5488
-      569:
-        - 4
-        - Long:
-            - 21
-      770:
-        - 4
-        - Long:
-            - 1
-      530:
-        - 4
-        - Long:
-            - 1372183323
-      523:
-        - 4
-        - Long:
-            - 0
-      263:
-        - 12
-        - Long:
-            - 46044964
-      270:
-        - 4
-        - Long:
-            - 0
-      261:
-        - 4
-        - Long:
-            - 50
-      526:
-        - 4
-        - Long:
-            - 1
-      768:
-        - 4
-        - Long:
-            - 80
-      576:
-        - 4
-        - Long:
-            - 4096
-      271:
-        - 45376188
-        - Long:
-            - 12
-      515:
-        - 31
-        - Ascii:
-            strings:
-              - Phase One Camera Capture Agent
-      563:
-        - 4
-        - Long:
-            - 21
-      529:
-        - 4
-        - Long:
-            - 1104412672
-      772:
-        - 4
-        - Long:
-            - 0
-      258:
-        - 9
-        - Ascii:
-            strings:
-              - CC000252
-      560:
-        - 4
-        - Long:
-            - 4134
-      577:
-        - 4
-        - Long:
-            - 5456
-      275:
-        - 4
-        - Long:
-            - 48128
-      561:
-        - 4
-        - Long:
-            - 5488
-      259:
-        - 4
-        - Long:
-            - 35651790
-      568:
-        - 4
-        - Long:
-            - 26
-      550:
-        - 36
-        - Long:
-            - 47638084
-      265:
-        - 4
-        - Long:
-            - 5488
-      516:
-        - 56
-        - Ascii:
-            strings:
-              - Microsoft Windows Version 6.1 Service Pack 1 Build 7601
-      564:
-        - 4
-        - Long:
-            - 4096
-      268:
-        - 4
-        - Long:
-            - 4096
-      769:
-        - 60
-        - Ascii:
-            strings:
-              - "H25, Firmware: Main=1.1.2, Boot=1.0.1d3, FPGA=1.0, CPLD=1.0"
-      565:
-        - 4
-        - Long:
-            - 5456
-      266:
-        - 4
-        - Long:
-            - 26
-      262:
-        - 36
-        - Long:
-            - 46044928
-      256:
-        - 4
-        - Long:
-            - 1
-      528:
-        - 4
-        - Long:
-            - 1104379904
-      566:
-        - 4
-        - Long:
-            - 4134
+data:
+  metadata:
+    rawParams:
+      rawWidth: 4134
+      rawHeight: 5488
+      bitDepth: 16
+      crops:
+        p:
+          x: 32
+          y: 26
+        d:
+          w: 4090
+          h: 5450
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 2.847255
+        - 1.0
+        - 1.1010499
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: ~
+        fnumber: ~
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: 50
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: ~
+        date_time_original: "2013:06:25 18:02:00"
+        create_date: "2013:06:25 18:02:00"
+        modify_date: ~
+        exposure_program: ~
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: ~
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: ~
+        flash: ~
+        focal_length: ~
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: ~
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: H 25
+      make: Phase One
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

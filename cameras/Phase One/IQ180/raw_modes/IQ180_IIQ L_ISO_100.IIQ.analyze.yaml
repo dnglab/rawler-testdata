@@ -3,354 +3,77 @@ file:
   fileSize: 69833041
   fileName: IQ180_IIQ L_ISO_100.IIQ
   digest: 70347a6b589f40859da1fe29b292f6a1
-captureInfo:
-  make: Phase One A/S
-  model: IQ180
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 10380
-  rawHeight: 7816
-  bitDepth: 16
-  crops: ~
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 1.7522401
-    - 1.0
-    - 1.55232
-    - ~
-format:
-  iiq:
-    makernotes:
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - FT002032
-      265:
-        - 4
-        - Long:
-            - 7816
-      1046:
-        - 4
-        - Long:
-            - 1117782016
-      257:
-        - 4
-        - Long:
-            - 96
-      581:
-        - 4
-        - Long:
-            - 1068827891
-      1031:
-        - 4
-        - Long:
-            - 0
-      274:
-        - 4
-        - Long:
-            - 1435249536
-      594:
-        - 4
-        - Long:
-            - 1065353216
-      1028:
-        - 4
-        - Long:
-            - 1
-      580:
-        - 4
-        - Long:
-            - 3266005124
-      530:
-        - 4
-        - Long:
-            - 1435247627
-      268:
-        - 4
-        - Long:
-            - 10328
-      541:
-        - 4
-        - Long:
-            - 1024
-      529:
-        - 4
-        - Long:
-            - 1106051072
-      1041:
-        - 4
-        - Long:
-            - 33756672
-      551:
-        - 4
-        - Long:
-            - 0
-      1043:
-        - 4
-        - Long:
-            - 251658240
-      549:
-        - 41520
-        - Long:
-            - 68466028
-      531:
-        - 4
-        - Long:
-            - 96
-      1104:
-        - 4
-        - Long:
-            - 0
-      544:
-        - 4
-        - Long:
-            - 32
-      256:
-        - 4
-        - Long:
-            - 0
-      275:
-        - 4
-        - Long:
-            - 14239
-      593:
-        - 4
-        - Long:
-            - 8
-      553:
-        - 4
-        - Long:
-            - 0
-      1045:
-        - 4
-        - Long:
-            - 1073741824
-      769:
-        - 32
-        - Ascii:
-            strings:
-              - "IQ180, Factory Firmware: 5.15.7"
-      542:
-        - 4
-        - Long:
-            - 1
-      556:
-        - 4
-        - Long:
-            - 3213063933
-      546:
-        - 4
-        - Long:
-            - 5200
-      260:
-        - 4
-        - Long:
-            - 35
-      1025:
-        - 4
-        - Long:
-            - 1077813864
-      1040:
-        - 8
-        - Ascii:
-            strings:
-              - "iXA "
-      591:
-        - 4
-        - Long:
-            - 0
-      524:
-        - 4
-        - Long:
-            - 2
-      586:
-        - 4
-        - Long:
-            - 1383458243
-      267:
-        - 4
-        - Long:
-            - 8
-      597:
-        - 4
-        - Long:
-            - 7
-      552:
-        - 4
-        - Long:
-            - 1
-      1032:
-        - 4
-        - Long:
-            - 0
-      259:
-        - 4
-        - Long:
-            - 22
-      271:
-        - 68354184
-        - Long:
-            - 504
-      523:
-        - 4
-        - Long:
-            - 0
-      526:
-        - 4
-        - Long:
-            - 3
-      266:
-        - 4
-        - Long:
-            - 36
-      1027:
-        - 4
-        - Long:
-            - 1117782016
-      579:
-        - 4
-        - Long:
-            - 38
-      516:
-        - 40
-        - Ascii:
-            strings:
-              - Digital Camera Back
-      1026:
-        - 4
-        - Long:
-            - 0
-      261:
-        - 4
-        - Long:
-            - 100
-      545:
-        - 4
-        - Long:
-            - 1118567768
-      550:
-        - 36
-        - Long:
-            - 68403432
-      1106:
-        - 4
-        - Long:
-            - 100
-      554:
-        - 4
-        - Long:
-            - 1001032894
-      598:
-        - 4
-        - Long:
-            - 35
-      599:
-        - 4
-        - Long:
-            - 1106378752
-      1030:
-        - 4
-        - Long:
-            - 1
-      578:
-        - 4
-        - Long:
-            - 6
-      528:
-        - 4
-        - Long:
-            - 1106378752
-      540:
-        - 31264
-        - Long:
-            - 68403500
-      1044:
-        - 4
-        - Long:
-            - 1090519040
-      772:
-        - 4
-        - Long:
-            - 4100
-      533:
-        - 4
-        - Long:
-            - 2
-      269:
-        - 4
-        - Long:
-            - 7760
-      547:
-        - 31264
-        - Long:
-            - 68434764
-      1033:
-        - 4
-        - Long:
-            - 0
-      262:
-        - 36
-        - Long:
-            - 68403396
-      1024:
-        - 4
-        - Long:
-            - 1093628886
-      264:
-        - 4
-        - Long:
-            - 10380
-      1042:
-        - 24
-        - Ascii:
-            strings:
-              - Schneider LS 80mm f/2.8
-      548:
-        - 4
-        - Long:
-            - 3888
-      515:
-        - 40
-        - Ascii:
-            strings:
-              - "Camera back (USB3), Firmware: 5.15.7"
-      272:
-        - 307200
-        - Long:
-            - 68507668
-      555:
-        - 4
-        - Long:
-            - 3181376862
-      1047:
-        - 4
-        - Long:
-            - 1117782016
-      270:
-        - 4
-        - Long:
-            - 3
-      263:
-        - 12
-        - Long:
-            - 68403384
-      768:
-        - 4
-        - Long:
-            - 114
+data:
+  metadata:
+    rawParams:
+      rawWidth: 10380
+      rawHeight: 7816
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 1.7522401
+        - 1.0
+        - 1.55232
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 500/1000000
+        fnumber: 280/100
+        aperture_value: 29709/10000
+        brightness_value: ~
+        iso_speed_ratings: 100
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2015:06:25 16:25:36"
+        create_date: "2015:06:25 16:25:36"
+        modify_date: ~
+        exposure_program: 1
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 1096578/100000
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: 1
+        flash: ~
+        focal_length: 800/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 1
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: IQ180
+      make: Phase One
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

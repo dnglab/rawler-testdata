@@ -3,196 +3,77 @@ file:
   fileSize: 31463387
   fileName: P30_IIQ L_ISO_100.IIQ
   digest: a1756ef00e26fddf57894ace7bed8c25
-captureInfo:
-  make: Phase One A/S
-  model: P30
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 6588
-  rawHeight: 4954
-  bitDepth: 16
-  crops: ~
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 2.46
-    - 1.0
-    - 1.25
-    - ~
-format:
-  iiq:
-    makernotes:
-      259:
-        - 4
-        - Long:
-            - 51773647
-      545:
-        - 4
-        - Long:
-            - 1062815902
-      264:
-        - 4
-        - Long:
-            - 6588
-      270:
-        - 4
-        - Long:
-            - 3
-      529:
-        - 4
-        - Long:
-            - 1100267520
-      541:
-        - 4
-        - Long:
-            - 1024
-      268:
-        - 4
-        - Long:
-            - 6526
-      544:
-        - 4
-        - Long:
-            - 32
-      515:
-        - 36
-        - Ascii:
-            strings:
-              - "Camera back, Main firmware: 2.3.6"
-      272:
-        - 522932
-        - Long:
-            - 30841708
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - CP010171
-      260:
-        - 4
-        - Long:
-            - 100
-      271:
-        - 30801832
-        - Long:
-            - 12
-      516:
-        - 36
-        - Ascii:
-            strings:
-              - Phase One Camera back
-      547:
-        - 19816
-        - Long:
-            - 30821708
-      540:
-        - 19816
-        - Long:
-            - 30801892
-      256:
-        - 4
-        - Long:
-            - 0
-      533:
-        - 4
-        - Long:
-            - 2
-      528:
-        - 4
-        - Long:
-            - 1100906496
-      546:
-        - 4
-        - Long:
-            - 3304
-      768:
-        - 4
-        - Long:
-            - 83
-      523:
-        - 4
-        - Long:
-            - 0
-      542:
-        - 4
-        - Long:
-            - 1
-      265:
-        - 4
-        - Long:
-            - 4954
-      524:
-        - 4
-        - Long:
-            - 1
-      266:
-        - 4
-        - Long:
-            - 41
-      269:
-        - 4
-        - Long:
-            - 4904
-      772:
-        - 4
-        - Long:
-            - 68
-      275:
-        - 4
-        - Long:
-            - 98736
-      261:
-        - 4
-        - Long:
-            - 100
-      531:
-        - 4
-        - Long:
-            - 128
-      274:
-        - 4
-        - Long:
-            - 1491041365
-      262:
-        - 36
-        - Long:
-            - 30801856
-      263:
-        - 12
-        - Long:
-            - 30801844
-      530:
-        - 4
-        - Long:
-            - 1491041276
-      267:
-        - 4
-        - Long:
-            - 22
-      526:
-        - 4
-        - Long:
-            - 1
-      769:
-        - 100
-        - Ascii:
-            strings:
-              - "P30-M, Firmware: Main=2.3.6, Boot=1.2, FPGA=1.1.9, CPLD=2.2.3, PAVR=1.0.4, UAVR=1.1.1, TGEN=1.0.1"
-      257:
-        - 4
-        - Long:
-            - 128
+data:
+  metadata:
+    rawParams:
+      rawWidth: 6588
+      rawHeight: 4954
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 2.46
+        - 1.0
+        - 1.25
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 76923/1000000
+        fnumber: 800/100
+        aperture_value: 60000/10000
+        brightness_value: ~
+        iso_speed_ratings: 100
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2017:04:01 10:09:25"
+        create_date: "2017:04:01 10:09:25"
+        modify_date: ~
+        exposure_program: 1
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 370044/100000
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: 1
+        flash: ~
+        focal_length: 800/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 1
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: P30
+      make: Phase One A/S
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

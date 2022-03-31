@@ -3,191 +3,83 @@ file:
   fileSize: 17843198
   fileName: H 25_IIQ S_ISO_100.IIQ
   digest: 5af2325dc4a7e020f1a83634058e5de0
-captureInfo:
-  make: Phase One A/S
-  model: H 25
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 4134
-  rawHeight: 5488
-  bitDepth: 16
-  crops:
-    p:
-      x: 32
-      y: 26
-    d:
-      w: 4090
-      h: 5450
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 2.641
-    - 1.0
-    - 1.251
-    - ~
-format:
-  iiq:
-    makernotes:
-      262:
-        - 36
-        - Long:
-            - 1593060
-      537:
-        - 128
-        - Ascii:
-            strings:
-              - ""
-      528:
-        - 4
-        - Long:
-            - 1104609280
-      527:
-        - 4
-        - Long:
-            - 0
-      272:
-        - 1593020
-        - Long:
-            - 20
-      768:
-        - 4
-        - Long:
-            - 80
-      531:
-        - 4
-        - Long:
-            - 631
-      267:
-        - 4
-        - Long:
-            - 21
-      257:
-        - 4
-        - Long:
-            - 631
-      266:
-        - 4
-        - Long:
-            - 26
-      265:
-        - 4
-        - Long:
-            - 5488
-      270:
-        - 4
-        - Long:
-            - 5
-      273:
-        - 200
-        - Ascii:
-            strings:
-              - "II\u0004"
-      264:
-        - 4
-        - Long:
-            - 4134
-      535:
-        - 4
-        - Long:
-            - 0
-      275:
-        - 4
-        - Long:
-            - 6521
-      274:
-        - 4
-        - Long:
-            - 1108570141
-      530:
-        - 4
-        - Long:
-            - 1108570144
-      260:
-        - 4
-        - Long:
-            - 50
-      516:
-        - 60
-        - Ascii:
-            strings:
-              - Microsoft Windows XP build 2600 Service Pack 1 511 MB RAM
-      529:
-        - 4
-        - Long:
-            - 1104642048
-      539:
-        - 4
-        - Long:
-            - 1065353216
-      526:
-        - 4
-        - Long:
-            - 1
-      269:
-        - 4
-        - Long:
-            - 5456
-      259:
-        - 4
-        - Long:
-            - 35651790
-      523:
-        - 4
-        - Long:
-            - 1
-      268:
-        - 4
-        - Long:
-            - 4096
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - CC000252
-      515:
-        - 28
-        - Ascii:
-            strings:
-              - " version 3.5.2 for Windows"
-      524:
-        - 4
-        - Long:
-            - 1
-      540:
-        - 21952
-        - Long:
-            - 1594096
-      263:
-        - 12
-        - Long:
-            - 1593048
-      256:
-        - 4
-        - Long:
-            - 1
-      261:
-        - 4
-        - Long:
-            - 100
-      538:
-        - 4
-        - Long:
-            - 4096
-      271:
-        - 15965928
-        - Long:
-            - 1616048
+data:
+  metadata:
+    rawParams:
+      rawWidth: 4134
+      rawHeight: 5488
+      bitDepth: 16
+      crops:
+        p:
+          x: 32
+          y: 26
+        d:
+          w: 4090
+          h: 5450
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 2.641
+        - 1.0
+        - 1.251
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: ~
+        fnumber: ~
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: ~
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: ~
+        date_time_original: "2005-02-16 17:09:15"
+        create_date: "2005-02-16 17:09:15"
+        modify_date: "2005-02-16 17:09:15"
+        exposure_program: ~
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: ~
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: ~
+        flash: ~
+        focal_length: ~
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: ~
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: H 25
+      make: Phase One
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

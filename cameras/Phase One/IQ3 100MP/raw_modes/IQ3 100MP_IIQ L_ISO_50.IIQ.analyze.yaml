@@ -3,406 +3,77 @@ file:
   fileSize: 109395641
   fileName: IQ3 100MP_IIQ L_ISO_50.IIQ
   digest: f9655a9f4f5693c5950d4efb6bf0209e
-captureInfo:
-  make: Phase One A/S
-  model: IQ3 100MP
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 11976
-  rawHeight: 8852
-  bitDepth: 16
-  crops: ~
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 3.2239757
-    - 1.0
-    - 1.2968336
-    - ~
-format:
-  iiq:
-    makernotes:
-      581:
-        - 4
-        - Long:
-            - 1065353216
-      274:
-        - 4
-        - Long:
-            - 1524997833
-      542:
-        - 4
-        - Long:
-            - 1
-      524:
-        - 4
-        - Long:
-            - 1
-      768:
-        - 4
-        - Long:
-            - 134
-      599:
-        - 4
-        - Long:
-            - 1102970880
-      541:
-        - 4
-        - Long:
-            - 1024
-      263:
-        - 12
-        - Long:
-            - 108105208
-      1040:
-        - 8
-        - Ascii:
-            strings:
-              - XF
-      516:
-        - 48
-        - Ascii:
-            strings:
-              - Digital Camera Back
-      594:
-        - 4
-        - Long:
-            - 1065353216
-      540:
-        - 35408
-        - Long:
-            - 108105380
-      1026:
-        - 4
-        - Long:
-            - 0
-      553:
-        - 4
-        - Long:
-            - 0
-      1041:
-        - 4
-        - Long:
-            - 67175680
-      1033:
-        - 4
-        - Long:
-            - 0
-      1334:
-        - 4
-        - Long:
-            - 6
-      1027:
-        - 4
-        - Long:
-            - 1117782016
-      1335:
-        - 4
-        - Long:
-            - 53
-      1024:
-        - 4
-        - Long:
-            - 1090856608
-      1107:
-        - 4
-        - Long:
-            - 1
-      270:
-        - 4
-        - Long:
-            - 3
-      579:
-        - 4
-        - Long:
-            - 0
-      1046:
-        - 4
-        - Long:
-            - 1117782016
-      1109:
-        - 20
-        - Ascii:
-            strings:
-              - XF Prism Viewfinder
-      269:
-        - 4
-        - Long:
-            - 8708
-      529:
-        - 4
-        - Long:
-            - 1102970880
-      602:
-        - 35408
-        - Long:
-            - 108140788
-      591:
-        - 4
-        - Long:
-            - 0
-      548:
-        - 4
-        - Long:
-            - 4476
-      271:
-        - 108104336
-        - Long:
-            - 504
-      1108:
-        - 4
-        - Long:
-            - 67110400
-      586:
-        - 4
-        - Long:
-            - 1488526853
-      600:
-        - 47904
-        - Long:
-            - 108176196
-      607:
-        - 248
-        - Long:
-            - 108382224
-      1028:
-        - 4
-        - Long:
-            - 2
-      1337:
-        - 4
-        - Long:
-            - 2139095039
-      1025:
-        - 4
-        - Long:
-            - 1086324736
-      533:
-        - 4
-        - Long:
-            - 5
-      1043:
-        - 4
-        - Long:
-            - 33753088
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - IG030529
-      268:
-        - 4
-        - Long:
-            - 11608
-      552:
-        - 4
-        - Long:
-            - 1
-      556:
-        - 4
-        - Long:
-            - 1010179238
-      1045:
-        - 4
-        - Long:
-            - 1091482535
-      272:
-        - 157992
-        - Long:
-            - 108224240
-      264:
-        - 4
-        - Long:
-            - 11976
-      265:
-        - 4
-        - Long:
-            - 8852
-      580:
-        - 4
-        - Long:
-            - 1059410691
-      546:
-        - 4
-        - Long:
-            - 5964
-      1030:
-        - 4
-        - Long:
-            - 2
-      1031:
-        - 4
-        - Long:
-            - 0
-      260:
-        - 4
-        - Long:
-            - 50
-      531:
-        - 4
-        - Long:
-            - 36
-      1328:
-        - 12
-        - Ascii:
-            strings:
-              - TE002932
-      1032:
-        - 4
-        - Long:
-            - 1
-      257:
-        - 4
-        - Long:
-            - 36
-      554:
-        - 4
-        - Long:
-            - 1065120200
-      261:
-        - 4
-        - Long:
-            - 50
-      544:
-        - 4
-        - Long:
-            - 32
-      259:
-        - 4
-        - Long:
-            - 27
-      545:
-        - 4
-        - Long:
-            - 1059832832
-      1110:
-        - 12
-        - Ascii:
-            strings:
-              - RB001537
-      593:
-        - 4
-        - Long:
-            - 2
-      1104:
-        - 4
-        - Long:
-            - 0
-      1111:
-        - 12
-        - Ascii:
-            strings:
-              - RA002780
-      555:
-        - 4
-        - Long:
-            - 977848096
-      550:
-        - 36
-        - Long:
-            - 108105256
-      614:
-        - 4
-        - Long:
-            - 0
-      515:
-        - 48
-        - Ascii:
-            strings:
-              - "Camera back (CompactFlash), Firmware: 5.09.49"
-      615:
-        - 4
-        - Long:
-            - 3259498496
-      1047:
-        - 4
-        - Long:
-            - 1117782016
-      1042:
-        - 24
-        - Ascii:
-            strings:
-              - Schneider LS 80mm f/2.8
-      772:
-        - 4
-        - Long:
-            - 4
-      262:
-        - 36
-        - Long:
-            - 108105220
-      528:
-        - 4
-        - Long:
-            - 1102970880
-      526:
-        - 4
-        - Long:
-            - 5
-      551:
-        - 4
-        - Long:
-            - 0
-      530:
-        - 4
-        - Long:
-            - 1524997833
-      606:
-        - 4
-        - Long:
-            - 3265789952
-      523:
-        - 4
-        - Long:
-            - 0
-      256:
-        - 4
-        - Long:
-            - 0
-      1336:
-        - 4
-        - Long:
-            - 1059816735
-      1106:
-        - 4
-        - Long:
-            - 70
-      266:
-        - 4
-        - Long:
-            - 148
-      275:
-        - 4
-        - Long:
-            - 6924
-      267:
-        - 4
-        - Long:
-            - 120
-      769:
-        - 36
-        - Ascii:
-            strings:
-              - "IQ3 100MP, User Firmware: 5.09.49"
-      578:
-        - 4
-        - Long:
-            - 0
-      1044:
-        - 4
-        - Long:
-            - 1077813864
+data:
+  metadata:
+    rawParams:
+      rawWidth: 11976
+      rawHeight: 8852
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 3.2239757
+        - 1.0
+        - 1.2968336
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ""
+        artist: ~
+        lens_spec: ~
+        exposure_time: 3125/1000000
+        fnumber: 800/100
+        aperture_value: 60000/10000
+        brightness_value: ~
+        iso_speed_ratings: 50
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2018:04:29 10:30:33"
+        create_date: "2018:04:29 10:30:33"
+        modify_date: ~
+        exposure_program: 2
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 832193/100000
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: 0
+        flash: ~
+        focal_length: 800/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 0
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: IQ3 100MP
+      make: Phase One
+      lens: ~
+      unique_image_id: ~
+      rating: ~
 

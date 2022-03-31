@@ -3,354 +3,94 @@ file:
   fileSize: 23186121
   fileName: IQ140_IIQ Sv2_ISO_50.IIQ
   digest: e45425b577f3381fbe63eb2f03897627
-captureInfo:
-  make: Phase One A/S
-  model: IQ140
-  exposureTime: ~
-  shutterSpeed: ~
-  exposureBias: ~
-  lensMake: ~
-  lensModel: ~
-  lensSpec: ~
-rawParams:
-  rawWidth: 7372
-  rawHeight: 5536
-  bitDepth: 16
-  crops: ~
-  blacklevels:
-    - 0
-    - 0
-    - 0
-    - 0
-  whitelevels:
-    - 65535
-    - 65535
-    - 65535
-    - 65535
-  wbCoeffs:
-    - 1.24841
-    - 1.0
-    - 1.4861
-    - ~
-format:
-  iiq:
-    makernotes:
-      267:
-        - 4
-        - Long:
-            - 6
-      544:
-        - 4
-        - Long:
-            - 32
-      1104:
-        - 4
-        - Long:
-            - 0
-      259:
-        - 4
-        - Long:
-            - 19
-      264:
-        - 4
-        - Long:
-            - 7372
-      260:
-        - 4
-        - Long:
-            - 50
-      263:
-        - 12
-        - Long:
-            - 22080744
-      523:
-        - 4
-        - Long:
-            - 0
-      265:
-        - 4
-        - Long:
-            - 5536
-      526:
-        - 4
-        - Long:
-            - 3
-      551:
-        - 4
-        - Long:
-            - 0
-      541:
-        - 4
-        - Long:
-            - 1024
-      1028:
-        - 4
-        - Long:
-            - 1
-      1031:
-        - 4
-        - Long:
-            - 0
-      769:
-        - 32
-        - Ascii:
-            strings:
-              - "IQ140, User Firmware: 8.00.30"
-      545:
-        - 4
-        - Long:
-            - 1055239038
-      598:
-        - 4
-        - Long:
-            - 31
-      1043:
-        - 4
-        - Long:
-            - 18087936
-      555:
-        - 4
-        - Long:
-            - 3166087824
-      553:
-        - 4
-        - Long:
-            - 0
-      262:
-        - 36
-        - Long:
-            - 22080756
-      586:
-        - 4
-        - Long:
-            - 1310559250
-      556:
-        - 4
-        - Long:
-            - 3163796480
-      257:
-        - 4
-        - Long:
-            - 64
-      261:
-        - 4
-        - Long:
-            - 50
-      580:
-        - 4
-        - Long:
-            - 3212916054
-      591:
-        - 4
-        - Long:
-            - 0
-      1045:
-        - 4
-        - Long:
-            - 1092616192
-      599:
-        - 4
-        - Long:
-            - 1103101952
-      268:
-        - 4
-        - Long:
-            - 7320
-      540:
-        - 22144
-        - Long:
-            - 22080864
-      550:
-        - 36
-        - Long:
-            - 22080792
-      547:
-        - 22144
-        - Long:
-            - 22103008
-      1032:
-        - 4
-        - Long:
-            - 0
-      597:
-        - 4
-        - Long:
-            - 6
-      548:
-        - 4
-        - Long:
-            - 2748
-      256:
-        - 4
-        - Long:
-            - 0
-      533:
-        - 4
-        - Long:
-            - 0
-      266:
-        - 4
-        - Long:
-            - 36
-      524:
-        - 4
-        - Long:
-            - 1
-      1040:
-        - 8
-        - Ascii:
-            strings:
-              - 645DF
-      546:
-        - 4
-        - Long:
-            - 3696
-      275:
-        - 4
-        - Long:
-            - 104836
-      516:
-        - 40
-        - Ascii:
-            strings:
-              - Digital Camera Back
-      258:
-        - 16
-        - Ascii:
-            strings:
-              - FG001008
-      1033:
-        - 4
-        - Long:
-            - 1
-      269:
-        - 4
-        - Long:
-            - 5484
-      1106:
-        - 4
-        - Long:
-            - 0
-      1042:
-        - 28
-        - Ascii:
-            strings:
-              - Schneider LS 150mm f/3.5
-      579:
-        - 4
-        - Long:
-            - 31
-      552:
-        - 4
-        - Long:
-            - 1
-      768:
-        - 4
-        - Long:
-            - 112
-      272:
-        - 108244
-        - Long:
-            - 22154768
-      554:
-        - 4
-        - Long:
-            - 1065546511
-      270:
-        - 4
-        - Long:
-            - 6
-      1027:
-        - 4
-        - Long:
-            - 1125515264
-      274:
-        - 4
-        - Long:
-            - 1512398295
-      578:
-        - 4
-        - Long:
-            - 7
-      1041:
-        - 4
-        - Long:
-            - 16909568
-      271:
-        - 22038784
-        - Long:
-            - 504
-      593:
-        - 4
-        - Long:
-            - 2
-      542:
-        - 4
-        - Long:
-            - 1
-      1046:
-        - 4
-        - Long:
-            - 1125515264
-      1030:
-        - 4
-        - Long:
-            - 1
-      1044:
-        - 4
-        - Long:
-            - 1077936128
-      1047:
-        - 4
-        - Long:
-            - 1125515264
-      581:
-        - 4
-        - Long:
-            - 1067030938
-      530:
-        - 4
-        - Long:
-            - 1512398296
-      528:
-        - 4
-        - Long:
-            - 1103101952
-      1024:
-        - 4
-        - Long:
-            - 1088350123
-      1026:
-        - 4
-        - Long:
-            - 0
-      1025:
-        - 4
-        - Long:
-            - 1090519040
-      549:
-        - 29488
-        - Long:
-            - 22125152
-      529:
-        - 4
-        - Long:
-            - 1103101952
-      594:
-        - 4
-        - Long:
-            - 1065353216
-      515:
-        - 40
-        - Ascii:
-            strings:
-              - "Camera back (USB2), Firmware: 8.00.30"
-      772:
-        - 4
-        - Long:
-            - 4
-      531:
-        - 4
-        - Long:
-            - 64
+data:
+  metadata:
+    rawParams:
+      rawWidth: 7372
+      rawHeight: 5536
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 65535
+        - 65535
+        - 65535
+        - 65535
+      wbCoeffs:
+        - 1.24841
+        - 1.0
+        - 1.4861
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ""
+        artist: ~
+        lens_spec:
+          - 150/1
+          - 150/1
+          - 35/10
+          - 35/10
+        exposure_time: 8000/1000000
+        fnumber: 1600/100
+        aperture_value: 80000/10000
+        brightness_value: ~
+        iso_speed_ratings: 50
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/1000
+        date_time_original: "2017:12:04 14:38:15"
+        create_date: "2017:12:04 14:38:15"
+        modify_date: ~
+        exposure_program: 1
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: ~
+        sub_sec_time_original: ~
+        sub_sec_time_digitized: ~
+        shutter_speed_value: 696578/100000
+        max_aperture_value: ~
+        subject_distance: ~
+        metering_mode: ~
+        light_source: 4
+        flash: ~
+        focal_length: 1500/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: ~
+        white_balance: 4
+        scene_capture_type: ~
+        subject_distance_range: ~
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: Schneider
+        lens_model: 150mm LS f/3.5
+        gps: ~
+      model: IQ140
+      make: Phase One
+      lens:
+        identifiers:
+          name: Schneider LS 150mm f/3.5
+          id: ~
+        mount: phaseone
+        lens_make: Schneider
+        lens_model: 150mm LS f/3.5
+        focal_range:
+          - 150/1
+          - 150/1
+        aperture_range:
+          - 35/10
+          - 35/10
+        lens_name: Schneider 150mm LS f/3.5
+      unique_image_id: ~
+      rating: ~
 
