@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 10016512
+  fileName: NIKON D100_ISO_400_12bits_Uncompressed.NEF
+  digest: ba999ce7ece9cfb95f92755d89f73a4a
+data:
+  metadata:
+    rawParams:
+      rawWidth: 3040
+      rawHeight: 2024
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 4095
+        - 4095
+        - 4095
+        - 4095
+      wbCoeffs:
+        - 744.0
+        - 256.0
+        - 368.0
+        - ~
+    rawMetadata:
+      exif:
+        orientation: ~
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 10/1800
+        fnumber: 45/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: ~
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: "-6/6"
+        date_time_original: "2013:08:02 19:12:06"
+        create_date: "2013:08:02 19:12:06"
+        modify_date: "2013:08:02 19:12:06"
+        exposure_program: 3
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "20"
+        sub_sec_time_original: "20"
+        sub_sec_time_digitized: "20"
+        shutter_speed_value: ~
+        max_aperture_value: 40/10
+        subject_distance: ~
+        metering_mode: 3
+        light_source: 11
+        flash: 7
+        focal_length: 900/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 0
+        white_balance: 1
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D100
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

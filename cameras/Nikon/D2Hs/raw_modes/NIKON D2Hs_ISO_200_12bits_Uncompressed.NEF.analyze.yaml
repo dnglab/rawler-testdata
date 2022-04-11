@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 6829084
+  fileName: NIKON D2Hs_ISO_200_12bits_Uncompressed.NEF
+  digest: 2d5297bc8f9c03ee304d9ae98308da7a
+data:
+  metadata:
+    rawParams:
+      rawWidth: 2496
+      rawHeight: 1648
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 3880
+        - 3880
+        - 3880
+        - 3880
+      wbCoeffs:
+        - 2.3867188
+        - 1.0
+        - 1.2695312
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 10/1800
+        fnumber: 110/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: 200
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/6
+        date_time_original: "2018:06:28 11:01:12"
+        create_date: "2018:06:28 11:01:12"
+        modify_date: "2018:06:28 11:01:12"
+        exposure_program: 3
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "38"
+        sub_sec_time_original: "38"
+        sub_sec_time_digitized: "38"
+        shutter_speed_value: ~
+        max_aperture_value: 43/10
+        subject_distance: ~
+        metering_mode: 5
+        light_source: 0
+        flash: 0
+        focal_length: 460/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 0
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D2Hs
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

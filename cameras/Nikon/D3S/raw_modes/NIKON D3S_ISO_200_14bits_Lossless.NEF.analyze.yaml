@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 16241419
+  fileName: NIKON D3S_ISO_200_14bits_Lossless.NEF
+  digest: 7eb43b1fc3a9bd1fdecf5c83fbd4db33
+data:
+  metadata:
+    rawParams:
+      rawWidth: 4288
+      rawHeight: 2844
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 15520
+        - 15520
+        - 15520
+        - 15520
+      wbCoeffs:
+        - 1.703125
+        - 1.0
+        - 1.5546875
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: "Michael Rasmussen                                     "
+        artist: "Michael Rasmussen                   "
+        lens_spec: ~
+        exposure_time: 10/1600
+        fnumber: 56/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: 200
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/6
+        date_time_original: "2022:02:13 14:49:56"
+        create_date: "2022:02:13 14:49:56"
+        modify_date: "2022:02:13 14:49:56"
+        exposure_program: 3
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "89"
+        sub_sec_time_original: "89"
+        sub_sec_time_digitized: "89"
+        shutter_speed_value: ~
+        max_aperture_value: 10/10
+        subject_distance: ~
+        metering_mode: 5
+        light_source: 0
+        flash: 0
+        focal_length: 500/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 0
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D3S
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

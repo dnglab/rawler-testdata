@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 5193213
+  fileName: NIKON D70s_ISO_200_12bits_Lossy (type 1).NEF
+  digest: 540b35968bdeccdc7822737d769b2b77
+data:
+  metadata:
+    rawParams:
+      rawWidth: 3040
+      rawHeight: 2014
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 4095
+        - 4095
+        - 4095
+        - 4095
+      wbCoeffs:
+        - 589.0
+        - 256.0
+        - 366.0
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 10/2000
+        fnumber: 80/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: ~
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/6
+        date_time_original: "2010:03:03 07:46:08"
+        create_date: "2010:03:03 07:46:08"
+        modify_date: "2010:03:03 07:46:08"
+        exposure_program: 3
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "10"
+        sub_sec_time_original: "10"
+        sub_sec_time_digitized: "10"
+        shutter_speed_value: ~
+        max_aperture_value: 43/10
+        subject_distance: ~
+        metering_mode: 5
+        light_source: 0
+        flash: 0
+        focal_length: 350/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 0
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D70s
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

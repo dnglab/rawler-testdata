@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 19432800
+  fileName: NIKON D300_ISO_200_12bits_Uncompressed.NEF
+  digest: 2ce9914e3ca423744196e50f6c6799ae
+data:
+  metadata:
+    rawParams:
+      rawWidth: 4352
+      rawHeight: 2868
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 3808
+        - 3808
+        - 3808
+        - 3808
+      wbCoeffs:
+        - 1.6601562
+        - 1.0
+        - 1.3476562
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: "                                                      "
+        artist: "                                    "
+        lens_spec: ~
+        exposure_time: 10/100
+        fnumber: 71/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: 200
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: 0/6
+        date_time_original: "2017:01:17 21:27:20"
+        create_date: "2017:01:17 21:27:20"
+        modify_date: "2017:01:17 21:27:20"
+        exposure_program: 1
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "68"
+        sub_sec_time_original: "68"
+        sub_sec_time_digitized: "68"
+        shutter_speed_value: ~
+        max_aperture_value: 43/10
+        subject_distance: ~
+        metering_mode: 2
+        light_source: 0
+        flash: 0
+        focal_length: 500/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 1
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D300
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

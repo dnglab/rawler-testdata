@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 35209320
+  fileName: NIKON D800_ISO_50_12bits_Lossless.NEF
+  digest: e3984cb84069fbcab3073ad8868cc5cc
+data:
+  metadata:
+    rawParams:
+      rawWidth: 7424
+      rawHeight: 4924
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 3880
+        - 3880
+        - 3880
+        - 3880
+      wbCoeffs:
+        - 2.171875
+        - 1.0
+        - 1.3476562
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: "pascal@obry.net                                       "
+        artist: "Pascal Obry                         "
+        lens_spec: ~
+        exposure_time: 10/80
+        fnumber: 140/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: ~
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: 2
+        exposure_bias: 12/6
+        date_time_original: "2016:09:10 18:15:55"
+        create_date: "2016:09:10 18:15:55"
+        modify_date: "2016:09:10 18:15:55"
+        exposure_program: 1
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "00"
+        sub_sec_time_original: "00"
+        sub_sec_time_digitized: "00"
+        shutter_speed_value: ~
+        max_aperture_value: 30/10
+        subject_distance: ~
+        metering_mode: 5
+        light_source: 0
+        flash: 16
+        focal_length: 240/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 1
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D800
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

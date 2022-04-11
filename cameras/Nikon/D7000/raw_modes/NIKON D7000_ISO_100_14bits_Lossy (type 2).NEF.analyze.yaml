@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 16290699
+  fileName: NIKON D7000_ISO_100_14bits_Lossy (type 2).NEF
+  digest: ea2c0030d91826c906374b9089187bae
+data:
+  metadata:
+    rawParams:
+      rawWidth: 4992
+      rawHeight: 3280
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 15892
+        - 15892
+        - 15892
+        - 15892
+      wbCoeffs:
+        - 1.9609375
+        - 1.0
+        - 1.515625
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: "2016 All rights reserved.                             "
+        artist: "Thomas Ryan                         "
+        lens_spec: ~
+        exposure_time: 10/2000
+        fnumber: 18/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: 100
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: 2
+        exposure_bias: 0/6
+        date_time_original: "2017:01:22 14:19:05"
+        create_date: "2017:01:22 14:19:05"
+        modify_date: "2017:01:22 14:19:05"
+        exposure_program: 3
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "50"
+        sub_sec_time_original: "50"
+        sub_sec_time_digitized: "50"
+        shutter_speed_value: ~
+        max_aperture_value: 16/10
+        subject_distance: ~
+        metering_mode: 5
+        light_source: 0
+        flash: 16
+        focal_length: 500/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 0
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D7000
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+

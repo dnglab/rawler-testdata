@@ -1,0 +1,79 @@
+---
+file:
+  fileSize: 5970470
+  fileName: NIKON D50_ISO_200_12bits_Lossy (type 1).NEF
+  digest: 58d8ad78277b73afe1fcba37f20ce00a
+data:
+  metadata:
+    rawParams:
+      rawWidth: 3040
+      rawHeight: 2014
+      bitDepth: 16
+      crops: ~
+      blacklevels:
+        - 0
+        - 0
+        - 0
+        - 0
+      whitelevels:
+        - 4095
+        - 4095
+        - 4095
+        - 4095
+      wbCoeffs:
+        - 583.0
+        - 264.0
+        - 349.0
+        - ~
+    rawMetadata:
+      exif:
+        orientation: 1
+        copyright: ~
+        artist: ~
+        lens_spec: ~
+        exposure_time: 10/7500
+        fnumber: 80/10
+        aperture_value: ~
+        brightness_value: ~
+        iso_speed_ratings: ~
+        iso_speed: ~
+        recommended_exposure_index: ~
+        sensitivity_type: ~
+        exposure_bias: "-3/6"
+        date_time_original: "2017:01:20 14:16:51"
+        create_date: "2017:01:20 14:16:51"
+        modify_date: "2017:01:20 14:16:51"
+        exposure_program: 3
+        timezone_offset: ~
+        offset_time: ~
+        offset_time_original: ~
+        offset_time_digitized: ~
+        sub_sec_time: "20"
+        sub_sec_time_original: "20"
+        sub_sec_time_digitized: "20"
+        shutter_speed_value: ~
+        max_aperture_value: 36/10
+        subject_distance: ~
+        metering_mode: 5
+        light_source: 0
+        flash: 0
+        focal_length: 180/10
+        image_number: ~
+        color_space: ~
+        flash_energy: ~
+        exposure_mode: 0
+        white_balance: 0
+        scene_capture_type: 0
+        subject_distance_range: 0
+        owner_name: ~
+        serial_number: ~
+        lens_serial_number: ~
+        lens_make: ~
+        lens_model: ~
+        gps: ~
+      model: D50
+      make: Nikon
+      lens: ~
+      unique_image_id: ~
+      rating: ~
+
