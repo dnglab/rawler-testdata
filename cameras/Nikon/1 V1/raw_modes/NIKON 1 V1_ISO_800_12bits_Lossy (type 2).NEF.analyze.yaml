@@ -9,7 +9,13 @@ data:
       rawWidth: 3904
       rawHeight: 2606
       bitDepth: 16
-      crops: ~
+      crops:
+        p:
+          x: 12
+          y: 6
+        d:
+          w: 3872
+          h: 2594
       blacklevels:
         - 0
         - 0

@@ -9,12 +9,18 @@ data:
       rawWidth: 6016
       rawHeight: 4016
       bitDepth: 16
-      crops: ~
+      crops:
+        p:
+          x: 8
+          y: 8
+        d:
+          w: 6000
+          h: 4000
       blacklevels:
-        - 150
-        - 150
-        - 150
-        - 150
+        - 600
+        - 600
+        - 600
+        - 600
       whitelevels:
         - 3880
         - 3880
