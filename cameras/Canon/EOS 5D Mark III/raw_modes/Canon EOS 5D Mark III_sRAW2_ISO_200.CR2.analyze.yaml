@@ -83,6 +83,7 @@ data:
           id:
             - 251
             - 0
+          nikon_id: ~
         mount: ef-mount
         lens_make: Canon
         lens_model: EF 70-200mm f/2.8L IS II USM

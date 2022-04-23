@@ -89,6 +89,7 @@ data:
           id:
             - 4
             - 249
+          nikon_id: ~
         mount: k-mount
         lens_make: Tamron
         lens_model: Tamron XR DiII 18-200mm F3.5-6.3 (A14)

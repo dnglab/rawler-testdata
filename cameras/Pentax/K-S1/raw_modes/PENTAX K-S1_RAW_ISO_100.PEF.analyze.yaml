@@ -89,6 +89,7 @@ data:
           id:
             - 7
             - 230
+          nikon_id: ~
         mount: k-mount
         lens_make: Tamron
         lens_model: Tamron AF 17-50mm F2.8 XR Di-II LD (Model A16)

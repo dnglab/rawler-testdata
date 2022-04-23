@@ -36,7 +36,11 @@ data:
         orientation: 1
         copyright: ""
         artist: ""
-        lens_spec: ~
+        lens_spec:
+          - 18/1
+          - 140/1
+          - 35/10
+          - 56/10
         exposure_time: 10/2000
         fnumber: 56/10
         aperture_value: ~
@@ -74,12 +78,26 @@ data:
         owner_name: ~
         serial_number: ~
         lens_serial_number: ~
-        lens_make: ~
-        lens_model: ~
+        lens_make: Nikon
+        lens_model: AF-S DX Nikkor 18-140mm f/3.5-5.6G ED VR
         gps: ~
       model: D5500
       make: Nikon
-      lens: ~
+      lens:
+        identifiers:
+          name: ~
+          id: ~
+          nikon_id: A0 40 2D 74 2C 3C BB 0E
+        mount: F-mount
+        lens_make: Nikon
+        lens_model: AF-S DX Nikkor 18-140mm f/3.5-5.6G ED VR
+        focal_range:
+          - 18/1
+          - 140/1
+        aperture_range:
+          - 35/10
+          - 56/10
+        lens_name: Nikon AF-S DX Nikkor 18-140mm f/3.5-5.6G ED VR
       unique_image_id: ~
       rating: ~
 

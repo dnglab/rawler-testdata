@@ -36,7 +36,11 @@ data:
         orientation: 1
         copyright: Wolfgang Goetz
         artist: Wolfgang Goetz
-        lens_spec: ~
+        lens_spec:
+          - 50/1
+          - 50/1
+          - 14/10
+          - 14/10
         exposure_time: 10/600
         fnumber: 80/10
         aperture_value: ~
@@ -74,12 +78,26 @@ data:
         owner_name: ~
         serial_number: ~
         lens_serial_number: ~
-        lens_make: ~
-        lens_model: ~
+        lens_make: Nikon
+        lens_model: AF-S Nikkor 50mm f/1.4G
         gps: ~
       model: D810
       make: Nikon
-      lens: ~
+      lens:
+        identifiers:
+          name: ~
+          id: ~
+          nikon_id: A0 54 50 50 0C 0C A2 06
+        mount: F-mount
+        lens_make: Nikon
+        lens_model: AF-S Nikkor 50mm f/1.4G
+        focal_range:
+          - 50/1
+          - 50/1
+        aperture_range:
+          - 14/10
+          - 14/10
+        lens_name: Nikon AF-S Nikkor 50mm f/1.4G
       unique_image_id: ~
       rating: ~
 

@@ -89,6 +89,7 @@ data:
           id:
             - 13
             - 18
+          nikon_id: ~
         mount: k-mount
         lens_make: Pentax
         lens_model: "smc PENTAX-D FA 645 55mm F2.8 AL [IF] SDM AW"

@@ -125,6 +125,7 @@ data:
           id:
             - 48
             - 0
+          nikon_id: ~
         mount: ef-mount
         lens_make: Canon
         lens_model: EF-S 18-55mm f/3.5-5.6 IS

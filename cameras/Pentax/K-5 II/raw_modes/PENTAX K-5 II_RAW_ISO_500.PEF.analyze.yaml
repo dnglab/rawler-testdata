@@ -89,6 +89,7 @@ data:
           id:
             - 4
             - 28
+          nikon_id: ~
         mount: k-mount
         lens_make: Pentax
         lens_model: smc PENTAX-FA 35mm F2 AL

@@ -125,6 +125,7 @@ data:
           id:
             - 61182
             - 266
+          nikon_id: ~
         mount: rf-mount
         lens_make: Canon
         lens_model: RF 70-200mm F2.8L IS USM

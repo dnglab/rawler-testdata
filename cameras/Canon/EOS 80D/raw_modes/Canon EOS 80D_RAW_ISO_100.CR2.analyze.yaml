@@ -89,6 +89,7 @@ data:
           id:
             - 4154
             - 0
+          nikon_id: ~
         mount: ef-mount
         lens_make: Canon
         lens_model: EF-S 24mm f/2.8 STM

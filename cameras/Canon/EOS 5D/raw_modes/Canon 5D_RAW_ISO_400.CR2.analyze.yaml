@@ -89,6 +89,7 @@ data:
           id:
             - 198
             - 0
+          nikon_id: ~
         mount: ef-mount
         lens_make: Canon
         lens_model: EF 50mm f/1.4 USM

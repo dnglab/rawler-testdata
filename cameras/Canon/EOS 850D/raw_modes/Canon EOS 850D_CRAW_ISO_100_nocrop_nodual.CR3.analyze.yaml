@@ -125,6 +125,7 @@ data:
           id:
             - 150
             - 0
+          nikon_id: ~
         mount: ef-mount
         lens_make: Sigma
         lens_model: 30mm f/1.4 DC HSM | A

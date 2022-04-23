@@ -125,6 +125,7 @@ data:
           id:
             - 180
             - 0
+          nikon_id: ~
         mount: ef-mount
         lens_make: Sigma
         lens_model: 50mm f/1.4 DG HSM | A

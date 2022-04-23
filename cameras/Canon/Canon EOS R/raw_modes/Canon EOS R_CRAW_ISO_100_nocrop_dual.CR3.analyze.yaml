@@ -125,6 +125,7 @@ data:
           id:
             - 61182
             - 267
+          nikon_id: ~
         mount: rf-mount
         lens_make: Canon
         lens_model: RF 85mm F2 MACRO IS STM

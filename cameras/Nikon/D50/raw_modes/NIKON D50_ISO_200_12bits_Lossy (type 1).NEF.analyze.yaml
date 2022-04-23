@@ -36,7 +36,11 @@ data:
         orientation: 1
         copyright: ~
         artist: ~
-        lens_spec: ~
+        lens_spec:
+          - 18/1
+          - 55/1
+          - 35/10
+          - 56/10
         exposure_time: 10/7500
         fnumber: 80/10
         aperture_value: ~
@@ -74,12 +78,26 @@ data:
         owner_name: ~
         serial_number: ~
         lens_serial_number: ~
-        lens_make: ~
-        lens_model: ~
+        lens_make: Nikon
+        lens_model: AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED II
         gps: ~
       model: D50
       make: Nikon
-      lens: ~
+      lens:
+        identifiers:
+          name: ~
+          id: ~
+          nikon_id: 94 40 2D 53 2C 3C 96 06
+        mount: F-mount
+        lens_make: Nikon
+        lens_model: AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED II
+        focal_range:
+          - 18/1
+          - 55/1
+        aperture_range:
+          - 35/10
+          - 56/10
+        lens_name: Nikon AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED II
       unique_image_id: ~
       rating: ~
 

@@ -81,6 +81,7 @@ data:
         identifiers:
           name: Schneider LS 150mm f/3.5
           id: ~
+          nikon_id: ~
         mount: phaseone
         lens_make: Schneider
         lens_model: 150mm LS f/3.5
