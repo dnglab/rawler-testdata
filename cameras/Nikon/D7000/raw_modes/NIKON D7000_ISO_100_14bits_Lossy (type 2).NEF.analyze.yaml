@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "2016 All rights reserved.                             "
-        artist: "Thomas Ryan                         "
+        copyright: 2016 All rights reserved.
+        artist: Thomas Ryan
         lens_spec:
           - 50/1
           - 50/1

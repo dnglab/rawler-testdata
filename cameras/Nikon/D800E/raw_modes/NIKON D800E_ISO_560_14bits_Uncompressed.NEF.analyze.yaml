@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "AUTREVUE                                              "
-        artist: "Laurent JUHEL                       "
+        copyright: AUTREVUE
+        artist: Laurent JUHEL
         lens_spec:
           - 105/1
           - 105/1

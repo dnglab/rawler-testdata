@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Aceler                                                "
-        artist: "Aceler                              "
+        copyright: Aceler
+        artist: Aceler
         lens_spec:
           - 50/1
           - 50/1

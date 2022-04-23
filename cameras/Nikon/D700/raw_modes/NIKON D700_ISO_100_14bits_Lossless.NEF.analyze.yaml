@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Dominik Gedon                                         "
-        artist: "Dominik Gedon                       "
+        copyright: Dominik Gedon
+        artist: Dominik Gedon
         lens_spec:
           - 20/1
           - 20/1

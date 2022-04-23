@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Michael Rasmussen                                     "
-        artist: "Michael Rasmussen                   "
+        copyright: Michael Rasmussen
+        artist: Michael Rasmussen
         lens_spec:
           - 50/1
           - 50/1

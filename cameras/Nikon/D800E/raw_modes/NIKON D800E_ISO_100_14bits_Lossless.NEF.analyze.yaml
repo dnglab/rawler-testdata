@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Erik Haak/Chasa:Imago/Pano:Meister                    "
-        artist: "Erik Haak                           "
+        copyright: "Erik Haak/Chasa:Imago/Pano:Meister"
+        artist: Erik Haak
         lens_spec:
           - 24/1
           - 70/1

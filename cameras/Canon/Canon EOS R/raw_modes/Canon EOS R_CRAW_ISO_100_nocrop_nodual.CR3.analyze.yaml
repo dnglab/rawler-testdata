@@ -35,7 +35,7 @@ data:
       exif:
         orientation: 1
         copyright: CC0
-        artist: "Alex Esseling\n"
+        artist: Alex Esseling
         lens_spec:
           - 85/1
           - 85/1

@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Cassidy Photography                                   "
-        artist: "Robert L.Cassidy                    "
+        copyright: Cassidy Photography
+        artist: Robert L.Cassidy
         lens_spec: ~
         exposure_time: 10/600
         fnumber: 110/10

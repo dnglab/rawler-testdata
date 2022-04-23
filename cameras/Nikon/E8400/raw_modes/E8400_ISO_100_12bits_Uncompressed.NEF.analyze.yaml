@@ -34,7 +34,7 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "       "
+        copyright: ""
         artist: ~
         lens_spec: ~
         exposure_time: 10/2500

@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Ralf Brown @ gmail.com                                "
-        artist: "Ralf Brown                          "
+        copyright: Ralf Brown @ gmail.com
+        artist: Ralf Brown
         lens_spec:
           - 18/1
           - 200/1

@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "pascal@obry.net                                       "
-        artist: "Pascal Obry                         "
+        copyright: pascal@obry.net
+        artist: Pascal Obry
         lens_spec:
           - 24/1
           - 70/1

@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "cc-0\n\n\n"
-        artist: "MIHA PECE\n"
+        copyright: cc-0
+        artist: MIHA PECE
         lens_spec:
           - 18/1
           - 55/1

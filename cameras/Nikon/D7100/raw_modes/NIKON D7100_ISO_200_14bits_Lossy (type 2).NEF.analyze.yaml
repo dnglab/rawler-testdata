@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "                                                      "
-        artist: "CHRIS RUFF                          "
+        copyright: ""
+        artist: CHRIS RUFF
         lens_spec:
           - 18/1
           - 135/1

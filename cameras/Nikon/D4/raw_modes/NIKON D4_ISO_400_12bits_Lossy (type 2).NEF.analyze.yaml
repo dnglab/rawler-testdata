@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "                                                      "
-        artist: "                                    "
+        copyright: ""
+        artist: ""
         lens_spec:
           - 24/1
           - 70/1

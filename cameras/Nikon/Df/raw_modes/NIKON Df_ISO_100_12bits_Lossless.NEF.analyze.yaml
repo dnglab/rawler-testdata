@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 6
-        copyright: "twitter@clennep                                       "
-        artist: "@clennep                            "
+        copyright: twitter@clennep
+        artist: "@clennep"
         lens_spec: ~
         exposure_time: 10/2000
         fnumber: 56/10

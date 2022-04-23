@@ -34,8 +34,8 @@ data:
     rawMetadata:
       exif:
         orientation: 1
-        copyright: "Miroslav Ivanov                                       "
-        artist: "Miroslav Ivanov                     "
+        copyright: Miroslav Ivanov
+        artist: Miroslav Ivanov
         lens_spec:
           - 18/1
           - 140/1
