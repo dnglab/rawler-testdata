@@ -11,10 +11,10 @@ data:
       bitDepth: 16
       crops:
         p:
-          x: 13
+          x: 15
           y: 6
         d:
-          w: 4260
+          w: 4256
           h: 2832
       blacklevels:
         - 0

@@ -14,7 +14,7 @@ data:
           x: 11
           y: 10
         d:
-          w: 4330
+          w: 4288
           h: 2848
       blacklevels:
         - 0
