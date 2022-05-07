@@ -9,7 +9,13 @@ data:
       rawWidth: 3040
       rawHeight: 2016
       bitDepth: 16
-      crops: ~
+      crops:
+        p:
+          x: 4
+          y: 4
+        d:
+          w: 3032
+          h: 2008
       blacklevels:
         - 0
         - 0
