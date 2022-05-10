@@ -90,6 +90,7 @@ data:
             - 32800
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: E PZ 18-105mm F4 G OSS

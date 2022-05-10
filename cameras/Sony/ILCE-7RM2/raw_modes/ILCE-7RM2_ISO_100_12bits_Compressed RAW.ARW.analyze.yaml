@@ -90,6 +90,7 @@ data:
             - 32821
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: FE 24-70mm F2.8 GM

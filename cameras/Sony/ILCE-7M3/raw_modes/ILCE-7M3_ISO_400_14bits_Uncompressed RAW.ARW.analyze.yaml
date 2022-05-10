@@ -90,6 +90,7 @@ data:
             - 32831
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: FE 16-35mm F2.8 GM

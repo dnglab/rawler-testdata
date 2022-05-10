@@ -90,6 +90,7 @@ data:
             - 13
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: NX-mount
         lens_make: Samsung
         lens_model: NX 16-50mm F2-2.8 S ED OIS

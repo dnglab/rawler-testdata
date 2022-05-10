@@ -90,6 +90,7 @@ data:
             - 1
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: NX-mount
         lens_make: Samsung
         lens_model: NX 30mm F2 Pancake

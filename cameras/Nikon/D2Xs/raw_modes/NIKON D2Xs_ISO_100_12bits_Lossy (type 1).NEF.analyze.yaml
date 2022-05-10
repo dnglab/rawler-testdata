@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 9F 58 44 44 14 14 A1 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S DX Nikkor 35mm f/1.8G

@@ -90,6 +90,7 @@ data:
             - 32805
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: FE 24-105mm F4 G OSS

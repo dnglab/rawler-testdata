@@ -90,6 +90,7 @@ data:
             - 32813
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: FE 28-70mm F3.5-5.6 OSS

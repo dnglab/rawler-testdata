@@ -90,6 +90,7 @@ data:
             - 4
             - 252
           nikon_id: ~
+          olympus_id: ~
         mount: k-mount
         lens_make: Pentax
         lens_model: smc PENTAX-DA 18-55mm F3.5-5.6 AL

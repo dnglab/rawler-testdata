@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: A8 48 8E 8E 30 30 C3 4E
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S Nikkor 300mm f/4E PF ED VR

@@ -90,6 +90,7 @@ data:
             - 32850
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: FE 135mm F1.8 GM

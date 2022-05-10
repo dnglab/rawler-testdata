@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 94 40 2D 53 2C 3C 96 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED II

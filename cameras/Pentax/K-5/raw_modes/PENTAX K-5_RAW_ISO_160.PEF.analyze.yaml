@@ -90,6 +90,7 @@ data:
             - 4
             - 19
           nikon_id: ~
+          olympus_id: ~
         mount: k-mount
         lens_make: Tamron
         lens_model: Tamron SP AF 90mm F2.8 (172E)

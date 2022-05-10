@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 91 54 44 44 0C 0C 4B 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Sigma
         lens_model: 35mm F1.4 DG HSM

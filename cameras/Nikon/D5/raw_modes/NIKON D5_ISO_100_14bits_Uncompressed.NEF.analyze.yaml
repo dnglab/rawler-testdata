@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: A5 54 6A 6A 0C 0C D0 46
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S Nikkor 105mm f/1.4E ED

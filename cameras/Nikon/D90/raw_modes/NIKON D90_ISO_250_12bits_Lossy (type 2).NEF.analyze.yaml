@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 7A 48 1C 30 24 24 7E 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Tokina
         lens_model: AT-X 11-20 F2.8 PRO DX (AF 11-20mm f/2.8)

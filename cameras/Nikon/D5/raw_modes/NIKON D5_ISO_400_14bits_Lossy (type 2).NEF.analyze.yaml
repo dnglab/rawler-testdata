@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 92 48 24 37 24 24 94 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S Zoom-Nikkor 14-24mm f/2.8G ED

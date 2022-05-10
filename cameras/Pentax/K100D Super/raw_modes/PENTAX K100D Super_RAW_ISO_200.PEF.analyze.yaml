@@ -90,6 +90,7 @@ data:
             - 4
             - 39
           nikon_id: ~
+          olympus_id: ~
         mount: k-mount
         lens_make: Pentax
         lens_model: smc PENTAX-FA 31mm F1.8 AL Limited

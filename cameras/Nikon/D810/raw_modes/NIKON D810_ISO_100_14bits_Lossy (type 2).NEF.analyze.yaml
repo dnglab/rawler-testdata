@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: A0 54 50 50 0C 0C A2 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S Nikkor 50mm f/1.4G

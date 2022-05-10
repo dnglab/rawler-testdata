@@ -90,6 +90,7 @@ data:
             - 8
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: NX-mount
         lens_make: Samsung
         lens_model: NX 60mm F2.8 Macro ED OIS SSA

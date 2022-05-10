@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: AA 3C 37 6E 30 30 AC 0E
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S Nikkor 24-120mm f/4G ED VR

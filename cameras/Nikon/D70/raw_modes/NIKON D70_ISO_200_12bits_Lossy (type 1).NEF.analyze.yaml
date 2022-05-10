@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 76 58 50 50 14 14 7A 02
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF Nikkor 50mm f/1.8D

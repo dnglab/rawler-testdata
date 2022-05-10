@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 00 40 2D 88 2C 40 62 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Tamron
         lens_model: AF 18-250mm f/3.5-6.3 Di II LD Aspherical (IF) Macro (A18)

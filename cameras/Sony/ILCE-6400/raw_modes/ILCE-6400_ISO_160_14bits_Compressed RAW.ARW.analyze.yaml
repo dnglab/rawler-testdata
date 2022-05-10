@@ -90,6 +90,7 @@ data:
             - 32849
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: E 18-135mm F3.5-5.6 OSS

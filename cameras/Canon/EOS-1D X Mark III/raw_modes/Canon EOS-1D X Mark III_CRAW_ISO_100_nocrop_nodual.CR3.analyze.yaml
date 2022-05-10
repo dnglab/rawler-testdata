@@ -126,6 +126,7 @@ data:
             - 495
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: ef-mount
         lens_make: Canon
         lens_model: EF 24-70mm f/2.8L II USM

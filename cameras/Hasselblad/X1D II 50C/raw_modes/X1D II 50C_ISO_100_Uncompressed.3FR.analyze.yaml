@@ -88,6 +88,7 @@ data:
           name: xcd_80
           id: ~
           nikon_id: ~
+          olympus_id: ~
         mount: x-mount
         lens_make: Hasselblad
         lens_model: XCD 80

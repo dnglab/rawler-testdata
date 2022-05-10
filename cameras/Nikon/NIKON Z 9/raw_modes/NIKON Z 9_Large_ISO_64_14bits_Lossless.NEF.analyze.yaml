@@ -90,6 +90,7 @@ data:
             - 2
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: Z-mount
         lens_make: Nikon
         lens_model: Nikkor Z 14-30mm f/4 S

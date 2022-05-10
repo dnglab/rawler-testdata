@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: FA 54 3C 5E 24 24 DF 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Tamron
         lens_model: SP AF 28-75mm f/2.8 XR Di LD Aspherical (IF) Macro (A09NII)

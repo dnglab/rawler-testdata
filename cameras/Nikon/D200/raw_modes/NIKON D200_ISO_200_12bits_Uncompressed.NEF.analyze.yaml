@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 77 48 5C 80 24 24 7B 0E
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S VR Zoom-Nikkor 70-200mm f/2.8G IF-ED

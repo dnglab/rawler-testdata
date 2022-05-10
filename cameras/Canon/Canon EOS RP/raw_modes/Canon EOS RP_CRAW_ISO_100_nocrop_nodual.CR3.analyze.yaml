@@ -126,6 +126,7 @@ data:
             - 61182
             - 280
           nikon_id: ~
+          olympus_id: ~
         mount: rf-mount
         lens_make: Canon
         lens_model: RF 50mm F1.8 STM

@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 69 48 5C 8E 30 3C 6F 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF Zoom-Nikkor 70-300mm f/4-5.6G

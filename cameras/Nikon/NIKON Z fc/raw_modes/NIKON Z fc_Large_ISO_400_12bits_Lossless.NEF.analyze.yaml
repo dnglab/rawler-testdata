@@ -90,6 +90,7 @@ data:
             - 11
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: Z-mount
         lens_make: Nikon
         lens_model: Nikkor Z DX 16-50mm f/3.5-6.3 VR

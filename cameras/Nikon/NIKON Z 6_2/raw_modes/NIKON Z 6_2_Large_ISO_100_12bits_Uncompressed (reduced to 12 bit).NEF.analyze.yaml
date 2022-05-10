@@ -90,6 +90,7 @@ data:
             - 18
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: Z-mount
         lens_make: Nikon
         lens_model: Nikkor Z 24-200mm f/4-6.3 VR

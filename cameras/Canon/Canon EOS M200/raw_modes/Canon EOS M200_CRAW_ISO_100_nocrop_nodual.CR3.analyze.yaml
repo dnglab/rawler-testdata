@@ -126,6 +126,7 @@ data:
             - 4153
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: ef-mount
         lens_make: Canon
         lens_model: EF-M 15-45mm f/3.5-6.3 IS STM

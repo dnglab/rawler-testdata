@@ -90,6 +90,7 @@ data:
             - 20
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: NX-mount
         lens_make: Samsung
         lens_model: NX 50-150mm F2.8 S ED OIS

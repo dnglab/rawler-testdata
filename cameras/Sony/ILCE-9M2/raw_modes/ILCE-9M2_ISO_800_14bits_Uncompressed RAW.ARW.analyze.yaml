@@ -90,6 +90,7 @@ data:
             - 32851
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: FE 200-600mm F5.6-6.3 G OSS

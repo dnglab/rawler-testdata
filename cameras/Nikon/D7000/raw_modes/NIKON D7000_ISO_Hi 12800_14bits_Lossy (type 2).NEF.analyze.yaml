@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 8B 40 2D 80 2C 3C 8D 0E
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S DX VR Zoom-Nikkor 18-200mm f/3.5-5.6G IF-ED

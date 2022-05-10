@@ -90,6 +90,7 @@ data:
             - 49216
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Zeiss
         lens_model: Batis 25mm F2

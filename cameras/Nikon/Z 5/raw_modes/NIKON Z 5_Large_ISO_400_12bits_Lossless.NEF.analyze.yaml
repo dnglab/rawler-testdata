@@ -90,6 +90,7 @@ data:
             - 9
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: Z-mount
         lens_make: Nikon
         lens_model: Nikkor Z 50mm f/1.8 S

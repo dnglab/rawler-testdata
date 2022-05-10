@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 9E 40 2D 6A 2C 3C A0 0E
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S DX VR Zoom-Nikkor 18-105mm f/3.5-5.6G ED

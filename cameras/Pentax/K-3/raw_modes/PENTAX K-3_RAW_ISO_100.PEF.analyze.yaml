@@ -90,6 +90,7 @@ data:
             - 8
             - 29
           nikon_id: ~
+          olympus_id: ~
         mount: k-mount
         lens_make: Sigma
         lens_model: Sigma 35mm F1.4 DG HSM

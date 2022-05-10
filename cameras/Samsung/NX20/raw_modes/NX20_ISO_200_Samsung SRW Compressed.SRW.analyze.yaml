@@ -90,6 +90,7 @@ data:
             - 2
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: NX-mount
         lens_make: Samsung
         lens_model: NX 18-55mm F3.5-5.6 OIS

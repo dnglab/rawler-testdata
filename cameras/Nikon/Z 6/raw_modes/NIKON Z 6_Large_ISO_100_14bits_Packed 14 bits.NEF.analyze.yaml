@@ -90,6 +90,7 @@ data:
             - 1
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: Z-mount
         lens_make: Nikon
         lens_model: Nikkor Z 24-70mm f/4 S

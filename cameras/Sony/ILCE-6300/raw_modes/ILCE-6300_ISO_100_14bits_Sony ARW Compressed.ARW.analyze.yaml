@@ -90,6 +90,7 @@ data:
             - 50480
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sigma
         lens_model: 30mm F1.4 DC DN | C

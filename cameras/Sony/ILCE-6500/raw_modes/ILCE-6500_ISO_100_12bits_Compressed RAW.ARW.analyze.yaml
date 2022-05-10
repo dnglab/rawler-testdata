@@ -90,6 +90,7 @@ data:
             - 32798
             - 0
           nikon_id: ~
+          olympus_id: ~
         mount: e-mount
         lens_make: Sony
         lens_model: E 20mm F2.8

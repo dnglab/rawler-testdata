@@ -88,6 +88,7 @@ data:
           name: ~
           id: ~
           nikon_id: 93 48 37 5C 24 24 95 06
+          olympus_id: ~
         mount: F-mount
         lens_make: Nikon
         lens_model: AF-S Zoom-Nikkor 24-70mm f/2.8G ED
