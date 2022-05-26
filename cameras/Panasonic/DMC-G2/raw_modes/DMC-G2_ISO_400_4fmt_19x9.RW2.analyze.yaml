@@ -41,7 +41,7 @@ data:
         fnumber: 36/10
         aperture_value: ~
         brightness_value: ~
-        iso_speed_ratings: ~
+        iso_speed_ratings: 400
         iso_speed: ~
         recommended_exposure_index: ~
         sensitivity_type: ~
