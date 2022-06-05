@@ -6,16 +6,16 @@ file:
 data:
   metadata:
     rawParams:
-      rawWidth: 0
-      rawHeight: 0
+      rawWidth: 3664
+      rawHeight: 2742
       bitDepth: 16
       crops:
         p:
           x: 0
           y: 0
         d:
-          w: 18446744073709551600
-          h: 18446744073709551610
+          w: 3648
+          h: 2736
       blacklevels:
         - 50
         - 50

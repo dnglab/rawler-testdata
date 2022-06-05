@@ -6,8 +6,8 @@ file:
 data:
   metadata:
     rawParams:
-      rawWidth: 0
-      rawHeight: 0
+      rawWidth: 4992
+      rawHeight: 3296
       bitDepth: 16
       crops:
         p:
